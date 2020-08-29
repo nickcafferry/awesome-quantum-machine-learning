@@ -1,0 +1,260 @@
+1
+00:00:00,532 --> 00:00:02,535
+Theo Cơ học lượng tử,
+
+2
+00:00:02,535 --> 00:00:07,542
+tất cả các hạt trong vũ trụ được mô tả bằng cái mà chúng ta gọi là hàm sóng,
+
+3
+00:00:07,542 --> 00:00:11,853
+và các hàm sóng lượng tử được mô tả bằng Phương trình của Schrodinger.
+
+4
+00:00:12,831 --> 00:00:18,310
+Mặc dù hành vi của tất cả các hạt hạ nguyên tử vốn có tính xác suất,
+
+5
+00:00:18,310 --> 00:00:22,650
+Phương trình Schrodinger tự nó không chứa bất kỳ xác suất nào.
+
+6
+00:00:23,773 --> 00:00:29,402
+Xác suất của mọi quan sát có thể được xác định bởi hàm sóng,
+
+7
+00:00:29,402 --> 00:00:31,740
+nhưng trước khi quan sát,
+
+8
+00:00:31,740 --> 00:00:36,751
+hàm sóng thay đổi và phát triển theo cách hoàn toàn xác định.
+
+9
+00:00:37,768 --> 00:00:41,328
+Cách xác định này trong đó một hàm sóng hoạt động
+
+10
+00:00:41,328 --> 00:00:46,288
+mà không có bất kỳ người quan sát nào có mặt là những gì Phương trình của Schrodinger mô tả.
+
+11
+00:00:47,935 --> 00:00:51,034
+Các hạt tích điện tác dụng lực lên nhau.
+
+12
+00:00:54,964 --> 00:00:58,963
+Chúng ta có thể xem điều này bằng cách nói rằng tại các điểm khác nhau trong không gian,
+
+13
+00:00:58,963 --> 00:01:03,085
+một hạt mang điện có một thế năng khác.
+
+14
+00:01:08,313 --> 00:01:14,628
+Chiều cao của đồ thị này tại mỗi điểm trong không gian được biểu thị bằng biến “V”.
+
+15
+00:01:22,237 --> 00:01:25,503
+Chiều cao không đại diện cho kích thước không gian,
+
+16
+00:01:25,503 --> 00:01:30,896
+nhưng giá trị của thế năng đối với hạt mang điện của chúng ta tại mỗi vị trí.
+
+17
+00:01:36,306 --> 00:01:39,596
+“M” đại diện cho khối lượng của hạt.
+
+18
+00:01:47,447 --> 00:01:52,167
+“Thanh H” đại diện cho hằng số Planck chia cho hai số pi.
+
+19
+00:01:59,548 --> 00:02:05,505
+Biến này thể hiện giá trị của hàm sóng tại mỗi điểm trong không gian và thời gian.
+
+20
+00:02:11,577 --> 00:02:16,344
+Biểu đồ này cho thấy một hàm sóng chỉ dọc theo một trong ba chiều không gian.
+
+21
+00:02:22,645 --> 00:02:27,581
+Tại mỗi thời điểm trong không gian và thời gian, hàm sóng là một số phức
+
+22
+00:02:27,581 --> 00:02:31,041
+với một thành phần thực và một thành phần ảo.
+
+23
+00:02:46,258 --> 00:02:47,859
+Biểu thức này chỉ ra
+
+24
+00:02:47,859 --> 00:02:53,187
+Hàm sóng thay đổi bao nhiêu khi X tăng một lượng nhỏ.
+
+25
+00:03:01,846 --> 00:03:07,337
+Thay đổi này là một số phức có thể được biểu diễn bằng các mũi tên như hình minh họa.
+
+26
+00:03:18,739 --> 00:03:23,758
+Không thay đổi tọa độ X hoặc hướng của bất kỳ mũi tên nào trong số này,
+
+27
+00:03:23,758 --> 00:03:27,811
+hãy để chúng tôi hiển thị từng mũi tên này bắt đầu dọc theo trục X.
+
+28
+00:03:33,961 --> 00:03:38,877
+Số lượng mà các mũi tên này thay đổi khi chúng ta tăng X lên một lượng nhỏ
+
+29
+00:03:38,877 --> 00:03:41,724
+được biểu diễn bằng biểu thức khác này.
+
+30
+00:03:55,436 --> 00:03:58,878
+Tại mỗi điểm trong không gian, tổng của ba giá trị này
+
+31
+00:03:58,878 --> 00:04:02,657
+là một số phức được biểu diễn bằng ký hiệu sau.
+
+32
+00:04:20,084 --> 00:04:24,565
+Bây giờ chúng ta đã bao gồm tất cả các ký hiệu ở phần bên trái của phương trình Schrodinger.
+
+33
+00:04:30,215 --> 00:04:33,256
+Bây giờ chúng ta hãy tập trung vào vế phải của phương trình.
+
+34
+00:04:41,215 --> 00:04:46,585
+Như trong ví dụ trước, biểu đồ này đại diện cho giá trị của một hàm sóng
+
+35
+00:04:46,585 --> 00:04:49,974
+dọc theo một trong ba chiều không gian.
+
+36
+00:04:52,563 --> 00:04:58,155
+Các mũi tên này cho biết hàm sóng tại mỗi điểm trong không gian sẽ thay đổi như thế nào
+
+37
+00:04:58,155 --> 00:05:01,724
+nếu thời gian tăng lên một lượng nhỏ.
+
+38
+00:05:13,120 --> 00:05:17,901
+Không thay đổi tọa độ X hoặc hướng của bất kỳ mũi tên nào trong số này,
+
+39
+00:05:17,901 --> 00:05:22,500
+hãy để chúng tôi hiển thị từng mũi tên này bắt đầu dọc theo trục X.
+
+40
+00:05:27,428 --> 00:05:32,250
+Nếu chúng ta nhân các mũi tên này với “thanh h”, độ dài của chúng sẽ thay đổi.
+
+41
+00:05:42,086 --> 00:05:46,365
+Nếu sau đó chúng ta nhân các mũi tên này với số ảo “i”,
+
+42
+00:05:46,365 --> 00:05:49,894
+tất cả các mũi tên này được xoay 90 độ.
+
+43
+00:05:58,621 --> 00:06:02,154
+Mỗi mũi tên này hiện đại diện cho một số phức
+
+44
+00:06:02,154 --> 00:06:05,844
+bằng vế phải của phương trình Schrodinger.
+
+45
+00:06:08,800 --> 00:06:13,810
+Vế phải của phương trình Schrodinger phải luôn bằng vế trái.
+
+46
+00:06:22,792 --> 00:06:26,242
+Nếu một hạt chỉ chuyển động theo một chiều,
+
+47
+00:06:26,242 --> 00:06:30,294
+thì phương trình của Schrodinger có thể được đơn giản hóa như sau.
+
+48
+00:06:44,607 --> 00:06:50,136
+Nếu chúng ta có một hàm có bước sóng ngắn hơn, thì tham số này lớn hơn.
+
+49
+00:06:56,704 --> 00:07:02,798
+Để cả hai vế của phương trình bằng nhau, tham số khác này cũng phải lớn hơn.
+
+50
+00:07:08,840 --> 00:07:13,951
+Tham số khác này thể hiện tốc độ quay của hàm sóng.
+
+51
+00:07:20,827 --> 00:07:25,347
+Do đó, nếu chúng ta có một hàm sóng có bước sóng ngắn hơn,
+
+52
+00:07:25,347 --> 00:07:29,064
+hàm sóng phải quay với tần số cao hơn.
+
+53
+00:07:32,961 --> 00:07:36,770
+Tần số càng cao thì năng lượng của hạt càng cao.
+
+54
+00:07:38,770 --> 00:07:44,790
+Nếu năng lượng của hạt được biết và được biểu thị bằng biến "E",
+
+55
+00:07:44,790 --> 00:07:49,319
+thì vế phải của phương trình Schrodinger bằng vế sau.
+
+56
+00:07:55,638 --> 00:08:00,146
+Do đó, nếu biết chắc chắn năng lượng của một hạt,
+
+57
+00:08:00,146 --> 00:08:03,415
+Phương trình Schrodinger có thể được đơn giản hóa như được hiển thị.
+
+58
+00:08:18,909 --> 00:08:23,598
+Nếu chúng ta cũng biết thế năng tại mỗi điểm trong không gian,
+
+59
+00:08:23,598 --> 00:08:26,317
+được ký hiệu bằng biến “V”,
+
+60
+00:08:26,317 --> 00:08:31,017
+sau đó chúng ta có thể tính toán tất cả các hàm sóng có thể có cho hạt.
+
+61
+00:08:33,554 --> 00:08:36,166
+Có nhiều thông tin hơn về chủ đề này
+
+62
+00:08:36,166 --> 00:08:40,477
+trong video “Hình ảnh hóa chức năng sóng lượng tử.”
+
+63
+00:08:40,477 --> 00:08:45,193
+Ngoài ra, chi tiết về cách một hàm sóng xác định các xác suất
+
+64
+00:08:45,193 --> 00:08:50,896
+cho tất cả các quan sát có thể có trong video “Các toán tử lượng tử”.
+
+65
+00:08:52,124 --> 00:08:55,734
+Vui lòng đăng ký nhận thông báo khi có video mới.
+

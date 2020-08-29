@@ -1,0 +1,289 @@
+1
+00:00:01,240 --> 00:00:03,680
+Unul dintre cele mai fascinante lucruri despre atomi
+
+2
+00:00:03,680 --> 00:00:06,320
+este că în mare pare sunt spațiu gol.
+
+3
+00:00:06,320 --> 00:00:09,160
+Dacă dimensiunea unui atom ar fi comparabilă cu deschizătura brațelor tale,
+
+4
+00:00:09,160 --> 00:00:14,280
+atunci electronii se vor găsi în interiorul volumului închis de degetele tale,
+
+5
+00:00:14,280 --> 00:00:17,180
+în timp ce nucleul ar fi în centru,
+
+6
+00:00:17,180 --> 00:00:23,140
+iar diametrul său ar fi mai mic decât un singur fir de păr.
+
+7
+00:00:23,140 --> 00:00:25,900
+Deci toți atomii ce te compun pe tine, pe mine
+
+8
+00:00:25,900 --> 00:00:29,260
+și toate lucrurile aparent solide din Univers
+
+9
+00:00:29,260 --> 00:00:31,260
+sunt în mare parte spațiu gol.
+
+10
+00:00:31,320 --> 00:00:32,820
+Acest lucru este incredibil.
+
+11
+00:00:32,820 --> 00:00:39,420
+Dar ceea ce este chiar mai uimitor este că spațiul gol nu este cu adevărat gol...
+
+12
+00:00:39,420 --> 00:00:41,480
+Știu pentru că am văzut asta.
+
+13
+00:00:41,480 --> 00:00:46,180
+Aceasta este o simulare a profesorului Derek Leinweber de la Universitatea din Adelaide.
+
+14
+00:00:46,420 --> 00:00:51,420
+A fost realizată folosind un supercalculator pentru a rezolva ecuațiile cromodinamicii cuantice.
+
+15
+00:00:51,860 --> 00:00:55,860
+Aceasta este teoria particulelor elementare numite cuarci,
+
+16
+00:00:55,860 --> 00:00:58,620
+cărămizile fundamentale din care sunt făcuți protonii și neutronii
+
+17
+00:00:58,620 --> 00:01:01,980
+și modul prin care aceștia interacționează prin intermediul gluonilor.
+
+18
+00:01:01,980 --> 00:01:07,760
+Ceea ce vezi aici este densitatea de energie a fluctuațiilor câmpului gluonic.
+
+19
+00:01:07,760 --> 00:01:11,720
+În zonele marcate cu roșu, densitatea de energie este foarte mare
+
+20
+00:01:11,720 --> 00:01:13,520
+și scade conform culorilor.
+
+21
+00:01:13,520 --> 00:01:18,120
+În starea de minimă energie, fluctuațiile câmpului nu sunt redate în animație
+
+22
+00:01:18,120 --> 00:01:19,920
+astfel că putem vizualiza.
+
+23
+00:01:19,940 --> 00:01:24,140
+Și ceea ce vedem este o „supă” de fluctuații cuantice
+
+24
+00:01:24,140 --> 00:01:26,740
+ce apar și dispar foarte repede.
+
+25
+00:01:26,740 --> 00:01:32,920
+Frecvența de afișare a cadrelor pentru această simulare este de un milion de miliarde de miliarde de cadre pe secundă.
+
+26
+00:01:32,920 --> 00:01:35,460
+Asta este într-adevăr o viteză foarte mare...
+
+27
+00:01:35,580 --> 00:01:39,200
+Dimensiunile acestei regiuni sunt extrem de mici.
+
+28
+00:01:39,200 --> 00:01:42,660
+Ele sunt de ordinul unei milionimi de miliardimi de metru,
+
+29
+00:01:42,660 --> 00:01:45,780
+suficient de mult spațiu pentru a „înghesui” doi protoni.
+
+30
+00:01:45,780 --> 00:01:47,580
+Dar aici nu vorbim de prezența protonilor...
+
+31
+00:01:47,580 --> 00:01:50,880
+Aceasta este o simulare a vidului,
+
+32
+00:01:50,880 --> 00:01:53,860
+ceea ce interpretăm ca „spațiu gol”.
+
+33
+00:01:53,860 --> 00:01:59,160
+Spațiul gol este de fapt plin de fluctuații cuarc-gluonice.
+
+34
+00:01:59,160 --> 00:02:07,760
+În medie, este posibilă înlăturarea unui cuarc din vid, pentru că acesta nu este gol...!
+
+35
+00:02:07,880 --> 00:02:10,460
+Asta pare una dintre cele mai ridicole idei
+
+36
+00:02:10,460 --> 00:02:15,020
+se presupune că ai un spațiu gol și totuși poți extrage lucruri din el...
+
+37
+00:02:15,580 --> 00:02:17,480
+Așa este. Deci nu este chiar gol!
+
+38
+00:02:17,480 --> 00:02:23,440
+Pare contraintuitiv ca vidul în stare de energie minimă să conțină toate lucrurile astea.
+
+39
+00:02:23,440 --> 00:02:26,340
+Dar, de fapt, pentru a înlătura fluctuațiile
+
+40
+00:02:26,340 --> 00:02:31,060
+și a crea un vid cu adevărat gol ar necesita o cantitate mare de energie.
+
+41
+00:02:31,060 --> 00:02:34,740
+Vidul gol are nevoie de o cantitate enormă de energie pentru a fi creat
+
+42
+00:02:34,740 --> 00:02:36,720
+și dacă ai reuși să-l creezi,
+
+43
+00:02:36,720 --> 00:02:40,620
+ai descoperi că este instabil.
+
+44
+00:02:40,620 --> 00:02:44,900
+Că orice fel de perturbație ar forța acel vid gol
+
+45
+00:02:44,900 --> 00:02:49,720
+să devină un vid plin de fluctuații cuantice.
+
+46
+00:02:49,840 --> 00:02:53,060
+Asta ar putea să nu fie chiar atât de ciudat cum pare la prima vedere.
+
+47
+00:02:53,060 --> 00:02:55,420
+Adică, gândiți-vă la un magnet permanent.
+
+48
+00:02:55,420 --> 00:03:00,200
+Acesta are un câmp magnetic în jurul său în starea de energie minimă, la temperatura camerei.
+
+49
+00:03:00,200 --> 00:03:03,020
+Asta pentru că momentele magnetice
+
+50
+00:03:03,020 --> 00:03:05,240
+ale atomilor din interior sunt aliniate.
+
+51
+00:03:05,240 --> 00:03:06,780
+Dar dacă îl încălzești,
+
+52
+00:03:06,780 --> 00:03:09,480
+ai transfera energie termică acelor particule.
+
+53
+00:03:09,480 --> 00:03:12,100
+Și de la un anumit punct numit temperatura Curie,
+
+54
+00:03:12,100 --> 00:03:14,360
+alinierea acestora ar fi atât de aleatorie
+
+55
+00:03:14,360 --> 00:03:17,960
+încât ar înceta să mai producă un câmp magnetic net.
+
+56
+00:03:17,960 --> 00:03:22,760
+Astfel că e nevoie de energie pentru a înlătura câmpul magnetic permanent.
+
+57
+00:03:22,760 --> 00:03:25,600
+Hmm, este ca în cazul vidului cuantic.
+
+58
+00:03:25,600 --> 00:03:29,360
+Și întelegând fluctuațiile cuantice ale vidului
+
+59
+00:03:29,360 --> 00:03:32,900
+ne permite să prezicem comportamentul particulelor elementare,
+
+60
+00:03:32,900 --> 00:03:35,980
+cum ar fi „unde este cel mai probabil să gasești un cuarc?”
+
+61
+00:03:36,240 --> 00:03:40,860
+Cuarcii se pare că preferă sa stea pe acele clustere.
+
+62
+00:03:40,860 --> 00:03:45,300
+Acele clustere apar și dispar foarte repede,
+
+63
+00:03:45,300 --> 00:03:50,040
+ne place să credem că, cuarcii „țopăie” de la un cluster la altul, pe măsură ce acesta apare,
+
+64
+00:03:50,040 --> 00:03:51,300
+apoi la următorul.
+
+65
+00:03:51,700 --> 00:03:58,420
+Îmi place să o văd ca pe încercarea unui excursionist de a trece un pârâu
+
+66
+00:03:58,420 --> 00:04:02,380
+Din când în când apare o piatră pentru că apa trece pe langă ea.
+
+67
+00:04:02,380 --> 00:04:05,100
+Apoi calci pe piatră... Cauți următorul loc
+
+68
+00:04:05,100 --> 00:04:07,720
+Dacă mergi suficient de repede, s-ar putea să reușești să nu îți uzi picioarele.
+
+69
+00:04:07,900 --> 00:04:13,680
+Și cred că și cuarcii se comportă similar.
+Știm, de fapt, că fac în mare parte cam același lucru.
+
+70
+00:04:13,680 --> 00:04:20,040
+Deși este adevărat că tu și cu mine și toți atomii din Univers sunt în mare parte spațiu gol,
+
+71
+00:04:20,040 --> 00:04:24,260
+la fel de adevărat este și faptul că „spațiul gol” nu este chiar gol.
+
+72
+00:04:24,260 --> 00:04:29,460
+Și de fapt, aceste fluctuații ale vidului sunt esențiale pentru existența noastră.
+

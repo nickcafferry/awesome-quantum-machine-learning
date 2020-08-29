@@ -1,0 +1,260 @@
+1
+00:00:00,532 --> 00:00:02,535
+According to Quantum Mechanics,
+
+2
+00:00:02,535 --> 00:00:07,542
+all particles in the universe are described by what we call a wave function,
+
+3
+00:00:07,542 --> 00:00:11,853
+and quantum wave functions are described by Schrodinger’s Equation.
+
+4
+00:00:12,831 --> 00:00:18,310
+Although the behavior of all subatomic particles is inherently probabilistic,
+
+5
+00:00:18,310 --> 00:00:22,650
+Schrodinger’s equation does not itself contain any probabilities.
+
+6
+00:00:23,773 --> 00:00:29,402
+The probability of every possible observation is determined by the wave function,
+
+7
+00:00:29,402 --> 00:00:31,740
+but prior to the observation,
+
+8
+00:00:31,740 --> 00:00:36,751
+the wave function changes and evolves in a completely deterministic manner.
+
+9
+00:00:37,768 --> 00:00:41,328
+This deterministic way in which a wave function behaves
+
+10
+00:00:41,328 --> 00:00:46,288
+without any observer present is what Schrodinger’s Equation describes.
+
+11
+00:00:47,935 --> 00:00:51,034
+Charged particles exert forces on one another.
+
+12
+00:00:54,964 --> 00:00:58,963
+We can view this by saying that at different points in space,
+
+13
+00:00:58,963 --> 00:01:03,085
+a charged particle has a different amount of potential energy.
+
+14
+00:01:08,313 --> 00:01:14,628
+The height of this graph at each point in space is represented by the variable “V”.
+
+15
+00:01:22,237 --> 00:01:25,503
+The height does not represent a spatial dimension,
+
+16
+00:01:25,503 --> 00:01:30,896
+but the value of the potential energy for our charged particle at each location.
+
+17
+00:01:36,306 --> 00:01:39,596
+“M” represents the mass of the particle.
+
+18
+00:01:47,447 --> 00:01:52,167
+“H bar” represents Planck’s constant divided by two pi.
+
+19
+00:01:59,548 --> 00:02:05,505
+This variable represents the value of the wave function at each point in space and time.
+
+20
+00:02:11,577 --> 00:02:16,344
+This graph shows a wave function along just one of the three spatial dimensions.
+
+21
+00:02:22,645 --> 00:02:27,581
+At each point in space and time, the wave function is a complex number
+
+22
+00:02:27,581 --> 00:02:31,041
+with a real a component and an imaginary component.
+
+23
+00:02:46,258 --> 00:02:47,859
+This expression indicates
+
+24
+00:02:47,859 --> 00:02:53,187
+how much the wave function changes as X increases by a small amount.
+
+25
+00:03:01,846 --> 00:03:07,337
+This change is a complex number which can be represented with arrows as shown.
+
+26
+00:03:18,739 --> 00:03:23,758
+Without changing the X coordinate or direction of any of these arrows,
+
+27
+00:03:23,758 --> 00:03:27,811
+let us show each of these arrows starting along the X axis.
+
+28
+00:03:33,961 --> 00:03:38,877
+The amount by which these arrows change as we increase X by a small amount
+
+29
+00:03:38,877 --> 00:03:41,724
+is represented with this other expression.
+
+30
+00:03:55,436 --> 00:03:58,878
+At each point in space, the sum of these three values
+
+31
+00:03:58,878 --> 00:04:02,657
+is a complex number represented with the following symbol.
+
+32
+00:04:20,084 --> 00:04:24,565
+We have now covered all the symbols on the left part of Schrodinger’s equation.
+
+33
+00:04:30,215 --> 00:04:33,256
+Let us now focus on the right side of the equation.
+
+34
+00:04:41,215 --> 00:04:46,585
+As in the previous example, this graph represents the value of a wave function
+
+35
+00:04:46,585 --> 00:04:49,974
+along just one of the three spatial dimensions.
+
+36
+00:04:52,563 --> 00:04:58,155
+These arrows indicate how much the wave function at each point in space will change
+
+37
+00:04:58,155 --> 00:05:01,724
+if the time increases by a small amount.
+
+38
+00:05:13,120 --> 00:05:17,901
+Without changing the X coordinate or direction of any of these arrows,
+
+39
+00:05:17,901 --> 00:05:22,500
+let us show each of these arrows starting along the X axis.
+
+40
+00:05:27,428 --> 00:05:32,250
+If we multiply these arrows by “h bar”, their length changes.
+
+41
+00:05:42,086 --> 00:05:46,365
+If we then multiply these arrows by the imaginary number “i”,
+
+42
+00:05:46,365 --> 00:05:49,894
+all these arrows are rotated by 90 degrees.
+
+43
+00:05:58,621 --> 00:06:02,154
+Each of these arrows now represent a complex number
+
+44
+00:06:02,154 --> 00:06:05,844
+which is equal to the right side of Schrodinger’s equation.
+
+45
+00:06:08,800 --> 00:06:13,810
+The right side of Schrodinger’s equation must always equal the left side.
+
+46
+00:06:22,792 --> 00:06:26,242
+If a particle is moving in just one dimension,
+
+47
+00:06:26,242 --> 00:06:30,294
+then Schrodinger’s equation can be simplified to the following.
+
+48
+00:06:44,607 --> 00:06:50,136
+If we have a function with a shorter wavelength, then this parameter is larger.
+
+49
+00:06:56,704 --> 00:07:02,798
+For both sides of the equation to be equal, this other parameter must also be larger.
+
+50
+00:07:08,840 --> 00:07:13,951
+This other parameter represents how quickly the wave function is rotating.
+
+51
+00:07:20,827 --> 00:07:25,347
+Therefore, if we have a wave function with a shorter wavelength,
+
+52
+00:07:25,347 --> 00:07:29,064
+the wave function must rotate with a higher frequency.
+
+53
+00:07:32,961 --> 00:07:36,770
+The higher the frequency, the higher the energy of the particle.
+
+54
+00:07:38,770 --> 00:07:44,790
+If the energy of the particle is known, and is represented by the variable “E”,
+
+55
+00:07:44,790 --> 00:07:49,319
+then the right side of Schrodinger’s equation is equal to the following.
+
+56
+00:07:55,638 --> 00:08:00,146
+Therefore, if the energy of a particle is known with certainty,
+
+57
+00:08:00,146 --> 00:08:03,415
+Schrodinger’s equation can be simplified as shown.
+
+58
+00:08:18,909 --> 00:08:23,598
+If we also know the potential energy at each point in space,
+
+59
+00:08:23,598 --> 00:08:26,317
+symbolized by the variable “V”,
+
+60
+00:08:26,317 --> 00:08:31,017
+we can then calculate all the possible wave functions for the particle.
+
+61
+00:08:33,554 --> 00:08:36,166
+Much more information on this topic is available
+
+62
+00:08:36,166 --> 00:08:40,477
+in the video “Quantum Wave function Visualization.”
+
+63
+00:08:40,477 --> 00:08:45,193
+Also, details about how a wave function determines the probabilities
+
+64
+00:08:45,193 --> 00:08:50,896
+for all possible observations is available in the video “Quantum Operators.”
+
+65
+00:08:52,124 --> 00:08:55,734
+Please subscribe for notifications when new videos are ready.
+

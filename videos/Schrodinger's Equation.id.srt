@@ -1,0 +1,260 @@
+1
+00:00:00,532 --> 00:00:02,535
+Menurut Mekanika Kuantum,
+
+2
+00:00:02,535 --> 00:00:07,542
+semua partikel di alam semesta dijelaskan oleh apa yang kita sebut fungsi gelombang,
+
+3
+00:00:07,542 --> 00:00:11,853
+dan fungsi gelombang kuantum dijelaskan oleh Persamaan Schrodinger.
+
+4
+00:00:12,831 --> 00:00:18,310
+Meskipun perilaku semua partikel subatomik secara inheren probabilistik,
+
+5
+00:00:18,310 --> 00:00:22,650
+Persamaan Schrodinger sendiri tidak mengandung probabilitas.
+
+6
+00:00:23,773 --> 00:00:29,402
+Probabilitas setiap pengamatan yang mungkin ditentukan oleh fungsi gelombang,
+
+7
+00:00:29,402 --> 00:00:31,740
+tapi sebelum observasi,
+
+8
+00:00:31,740 --> 00:00:36,751
+fungsi gelombang berubah dan berkembang dengan cara yang sepenuhnya deterministik.
+
+9
+00:00:37,768 --> 00:00:41,328
+Ini cara deterministik di mana fungsi gelombang berperilaku
+
+10
+00:00:41,328 --> 00:00:46,288
+tanpa kehadiran pengamat apa pun yang dijelaskan oleh Persamaan Schrodinger.
+
+11
+00:00:47,935 --> 00:00:51,034
+Partikel bermuatan mengerahkan kekuatan satu sama lain.
+
+12
+00:00:54,964 --> 00:00:58,963
+Kita dapat melihat ini dengan mengatakan bahwa pada titik yang berbeda di ruang angkasa,
+
+13
+00:00:58,963 --> 00:01:03,085
+partikel bermuatan memiliki jumlah energi potensial yang berbeda.
+
+14
+00:01:08,313 --> 00:01:14,628
+Ketinggian grafik ini di setiap titik dalam ruang diwakili oleh variabel "V".
+
+15
+00:01:22,237 --> 00:01:25,503
+Ketinggian tidak mewakili dimensi spasial,
+
+16
+00:01:25,503 --> 00:01:30,896
+tetapi nilai energi potensial untuk partikel bermuatan kami di setiap lokasi.
+
+17
+00:01:36,306 --> 00:01:39,596
+"M" mewakili massa partikel.
+
+18
+00:01:47,447 --> 00:01:52,167
+"H bar" mewakili konstanta Planck dibagi dengan dua pi.
+
+19
+00:01:59,548 --> 00:02:05,505
+Variabel ini mewakili nilai fungsi gelombang di setiap titik dalam ruang dan waktu.
+
+20
+00:02:11,577 --> 00:02:16,344
+Grafik ini menunjukkan fungsi gelombang di sepanjang hanya satu dari tiga dimensi spasial.
+
+21
+00:02:22,645 --> 00:02:27,581
+Pada setiap titik dalam ruang dan waktu, fungsi gelombang adalah bilangan kompleks
+
+22
+00:02:27,581 --> 00:02:31,041
+dengan komponen nyata dan komponen imajiner.
+
+23
+00:02:46,258 --> 00:02:47,859
+Ungkapan ini menunjukkan
+
+24
+00:02:47,859 --> 00:02:53,187
+berapa banyak fungsi gelombang berubah ketika X bertambah sedikit.
+
+25
+00:03:01,846 --> 00:03:07,337
+Perubahan ini adalah bilangan kompleks yang dapat diwakili dengan panah seperti yang ditunjukkan.
+
+26
+00:03:18,739 --> 00:03:23,758
+Tanpa mengubah koordinat X atau arah salah satu panah ini,
+
+27
+00:03:23,758 --> 00:03:27,811
+mari kita tunjukkan masing-masing panah ini mulai sepanjang sumbu X.
+
+28
+00:03:33,961 --> 00:03:38,877
+Jumlah perubahan panah ini saat kami meningkatkan X dengan jumlah kecil
+
+29
+00:03:38,877 --> 00:03:41,724
+diwakili dengan ungkapan lain ini.
+
+30
+00:03:55,436 --> 00:03:58,878
+Pada setiap titik dalam ruang, jumlah ketiga nilai ini
+
+31
+00:03:58,878 --> 00:04:02,657
+adalah bilangan kompleks yang diwakili dengan simbol berikut.
+
+32
+00:04:20,084 --> 00:04:24,565
+Kami sekarang telah membahas semua simbol di bagian kiri persamaan Schrodinger.
+
+33
+00:04:30,215 --> 00:04:33,256
+Sekarang mari kita fokus pada sisi kanan persamaan.
+
+34
+00:04:41,215 --> 00:04:46,585
+Seperti pada contoh sebelumnya, grafik ini mewakili nilai fungsi gelombang
+
+35
+00:04:46,585 --> 00:04:49,974
+sepanjang hanya satu dari tiga dimensi spasial.
+
+36
+00:04:52,563 --> 00:04:58,155
+Panah ini menunjukkan seberapa besar fungsi gelombang di setiap titik dalam ruang akan berubah
+
+37
+00:04:58,155 --> 00:05:01,724
+jika waktu bertambah sedikit.
+
+38
+00:05:13,120 --> 00:05:17,901
+Tanpa mengubah koordinat X atau arah salah satu panah ini,
+
+39
+00:05:17,901 --> 00:05:22,500
+mari kita tunjukkan masing-masing panah ini mulai sepanjang sumbu X.
+
+40
+00:05:27,428 --> 00:05:32,250
+Jika kita mengalikan panah ini dengan "h bar", panjangnya akan berubah.
+
+41
+00:05:42,086 --> 00:05:46,365
+Jika kita kalikan panah ini dengan angka imajiner "i",
+
+42
+00:05:46,365 --> 00:05:49,894
+semua panah ini diputar 90 derajat.
+
+43
+00:05:58,621 --> 00:06:02,154
+Masing-masing panah ini sekarang mewakili bilangan kompleks
+
+44
+00:06:02,154 --> 00:06:05,844
+yang sama dengan sisi kanan persamaan Schrodinger.
+
+45
+00:06:08,800 --> 00:06:13,810
+Sisi kanan persamaan Schrodinger harus selalu sama dengan sisi kiri.
+
+46
+00:06:22,792 --> 00:06:26,242
+Jika sebuah partikel bergerak hanya dalam satu dimensi,
+
+47
+00:06:26,242 --> 00:06:30,294
+maka persamaan Schrodinger dapat disederhanakan sebagai berikut.
+
+48
+00:06:44,607 --> 00:06:50,136
+Jika kita memiliki fungsi dengan panjang gelombang lebih pendek, maka parameter ini lebih besar.
+
+49
+00:06:56,704 --> 00:07:02,798
+Agar kedua sisi persamaan sama, parameter lain ini juga harus lebih besar.
+
+50
+00:07:08,840 --> 00:07:13,951
+Parameter lain ini menunjukkan seberapa cepat fungsi gelombang berputar.
+
+51
+00:07:20,827 --> 00:07:25,347
+Oleh karena itu, jika kita memiliki fungsi gelombang dengan panjang gelombang yang lebih pendek,
+
+52
+00:07:25,347 --> 00:07:29,064
+fungsi gelombang harus berputar dengan frekuensi yang lebih tinggi.
+
+53
+00:07:32,961 --> 00:07:36,770
+Semakin tinggi frekuensinya, semakin tinggi energi partikel.
+
+54
+00:07:38,770 --> 00:07:44,790
+Jika energi partikel diketahui, dan diwakili oleh variabel "E",
+
+55
+00:07:44,790 --> 00:07:49,319
+maka sisi kanan persamaan Schrodinger sama dengan yang berikut ini.
+
+56
+00:07:55,638 --> 00:08:00,146
+Karena itu, jika energi suatu partikel diketahui dengan pasti,
+
+57
+00:08:00,146 --> 00:08:03,415
+Persamaan Schrodinger dapat disederhanakan seperti yang ditunjukkan.
+
+58
+00:08:18,909 --> 00:08:23,598
+Jika kita juga tahu energi potensial di setiap titik di ruang angkasa,
+
+59
+00:08:23,598 --> 00:08:26,317
+dilambangkan dengan variabel "V",
+
+60
+00:08:26,317 --> 00:08:31,017
+kita kemudian dapat menghitung semua fungsi gelombang yang mungkin untuk partikel.
+
+61
+00:08:33,554 --> 00:08:36,166
+Lebih banyak informasi tentang topik ini tersedia
+
+62
+00:08:36,166 --> 00:08:40,477
+dalam video "Visualisasi fungsi Gelombang Kuantum."
+
+63
+00:08:40,477 --> 00:08:45,193
+Juga, detail tentang bagaimana fungsi gelombang menentukan probabilitas
+
+64
+00:08:45,193 --> 00:08:50,896
+untuk semua pengamatan yang mungkin tersedia di video "Operator Kuantum."
+
+65
+00:08:52,124 --> 00:08:55,734
+Silakan berlangganan pemberitahuan ketika video baru siap.
+

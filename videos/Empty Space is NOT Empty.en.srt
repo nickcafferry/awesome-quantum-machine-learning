@@ -1,0 +1,440 @@
+1
+00:00:00,560 --> 00:00:05,250
+one of the most amazing things about
+
+2
+00:00:03,060 --> 00:00:08,160
+atoms is that they are mainly empty
+
+3
+00:00:05,250 --> 00:00:10,469
+space if an atom were as wide as your
+
+4
+00:00:08,160 --> 00:00:12,269
+arm span then the electrons would all be
+
+5
+00:00:10,469 --> 00:00:14,849
+whizzing about inside the volume
+
+6
+00:00:12,269 --> 00:00:16,529
+enclosed by your fingertips meanwhile
+
+7
+00:00:14,849 --> 00:00:19,109
+the nucleus would be sitting in the
+
+8
+00:00:16,529 --> 00:00:23,220
+center and its diameter would be smaller
+
+9
+00:00:19,109 --> 00:00:25,800
+than the width of a single human hair so
+
+10
+00:00:23,220 --> 00:00:28,349
+all of the atoms that make up you and me
+
+11
+00:00:25,800 --> 00:00:31,740
+and all the seemingly solid things in
+
+12
+00:00:28,349 --> 00:00:34,320
+the universe are mostly empty space now
+
+13
+00:00:31,740 --> 00:00:37,620
+this is incredible but what is even more
+
+14
+00:00:34,320 --> 00:00:41,070
+mind-boggling is that empty space is not
+
+15
+00:00:37,620 --> 00:00:44,100
+truly empty I know because I've seen it
+
+16
+00:00:41,070 --> 00:00:45,600
+this is a simulation by Professor Derek
+
+17
+00:00:44,100 --> 00:00:47,640
+line Webber at the University of
+
+18
+00:00:45,600 --> 00:00:49,950
+Adelaide it was made using a
+
+19
+00:00:47,640 --> 00:00:52,590
+supercomputer to crunch the calculations
+
+20
+00:00:49,950 --> 00:00:54,629
+of quantum chromodynamics now that is
+
+21
+00:00:52,590 --> 00:00:57,030
+the theory of fundamental particles
+
+22
+00:00:54,629 --> 00:00:59,430
+called quarks the building blocks of
+
+23
+00:00:57,030 --> 00:01:01,559
+protons and neutrons and how they
+
+24
+00:00:59,430 --> 00:01:03,629
+interact with each other through gluons
+
+25
+00:01:01,559 --> 00:01:07,590
+what you're looking at here is the
+
+26
+00:01:03,629 --> 00:01:10,140
+energy density of one field fluctuations
+
+27
+00:01:07,590 --> 00:01:13,049
+where the red spots come out of the
+
+28
+00:01:10,140 --> 00:01:14,729
+energy density is very high fades down
+
+29
+00:01:13,049 --> 00:01:17,159
+from the color so in the lowest energy
+
+30
+00:01:14,729 --> 00:01:19,140
+field fluctuations are not rendering
+
+31
+00:01:17,159 --> 00:01:21,150
+this animation so that we can actually
+
+32
+00:01:19,140 --> 00:01:23,220
+see into it and what we see is a
+
+33
+00:01:21,150 --> 00:01:25,619
+bubbling soup of quantum field
+
+34
+00:01:23,220 --> 00:01:27,840
+fluctuations that come and go incredibly
+
+35
+00:01:25,619 --> 00:01:31,259
+quickly the frame rate of this
+
+36
+00:01:27,840 --> 00:01:34,229
+simulation is 1 million billion billion
+
+37
+00:01:31,259 --> 00:01:36,990
+frames per second now that is truly
+
+38
+00:01:34,229 --> 00:01:40,619
+high-speed the dimensions of this box
+
+39
+00:01:36,990 --> 00:01:43,590
+are absolutely tiny they are millionths
+
+40
+00:01:40,619 --> 00:01:46,320
+of a billion of a meter roughly enough
+
+41
+00:01:43,590 --> 00:01:49,049
+space to stick to protons but there are
+
+42
+00:01:46,320 --> 00:01:51,750
+no protons here this is a simulation of
+
+43
+00:01:49,049 --> 00:01:54,780
+the vacuum on its own where we normally
+
+44
+00:01:51,750 --> 00:01:57,719
+think of as empty space empty space is
+
+45
+00:01:54,780 --> 00:02:01,680
+actually full of these cork long field
+
+46
+00:01:57,719 --> 00:02:05,040
+fluctuations and on average it is
+
+47
+00:02:01,680 --> 00:02:08,140
+possible to annihilate a cork from empty
+
+48
+00:02:05,040 --> 00:02:09,790
+space because it's not
+
+49
+00:02:08,140 --> 00:02:11,800
+it just sounds like the most ridiculous
+
+50
+00:02:09,790 --> 00:02:13,750
+idea that you you're meant to have empty
+
+51
+00:02:11,800 --> 00:02:17,440
+space in it you can go and get rid of
+
+52
+00:02:13,750 --> 00:02:19,390
+stuff from that's right so it is empty
+
+53
+00:02:17,440 --> 00:02:21,730
+now it seems counterintuitive that the
+
+54
+00:02:19,390 --> 00:02:24,340
+vacuum at its lowest energy state should
+
+55
+00:02:21,730 --> 00:02:27,250
+contain all of this stuff but in fact to
+
+56
+00:02:24,340 --> 00:02:30,160
+clear out the fluctuations and create a
+
+57
+00:02:27,250 --> 00:02:32,440
+truly empty vacuum would require a lot
+
+58
+00:02:30,160 --> 00:02:34,180
+of energy the empty vacuum actually
+
+59
+00:02:32,440 --> 00:02:36,220
+costs an enormous amount of energy to
+
+60
+00:02:34,180 --> 00:02:40,390
+create and you were able to create it
+
+61
+00:02:36,220 --> 00:02:43,240
+you discover that it's actually unstable
+
+62
+00:02:40,390 --> 00:02:46,000
+that any sort of perturbation would push
+
+63
+00:02:43,240 --> 00:02:48,390
+that empty vacuum into something where
+
+64
+00:02:46,000 --> 00:02:50,950
+the vacuums actually full of
+
+65
+00:02:48,390 --> 00:02:53,440
+fluctuations well this may not be as
+
+66
+00:02:50,950 --> 00:02:56,170
+strange as it first appears I mean
+
+67
+00:02:53,440 --> 00:02:58,900
+consider a permanent magnet it has a
+
+68
+00:02:56,170 --> 00:03:01,270
+magnetic field around it at low energy
+
+69
+00:02:58,900 --> 00:03:03,160
+at room temperature and that's because
+
+70
+00:03:01,270 --> 00:03:05,650
+the individual little magnetic moments
+
+71
+00:03:03,160 --> 00:03:07,360
+of all the atoms inside are lined up but
+
+72
+00:03:05,650 --> 00:03:09,130
+if you were to heat it up you would give
+
+73
+00:03:07,360 --> 00:03:11,290
+thermal energy to all those particles
+
+74
+00:03:09,130 --> 00:03:13,600
+and at a certain point called the Curie
+
+75
+00:03:11,290 --> 00:03:16,300
+temperature they would be so randomly
+
+76
+00:03:13,600 --> 00:03:18,459
+aligned that there would no longer be an
+
+77
+00:03:16,300 --> 00:03:21,340
+overall magnetic field so it actually
+
+78
+00:03:18,459 --> 00:03:24,160
+takes energy to get rid of the permanent
+
+79
+00:03:21,340 --> 00:03:27,310
+magnetic field and this is just like the
+
+80
+00:03:24,160 --> 00:03:29,769
+quantum vacuum and understanding how the
+
+81
+00:03:27,310 --> 00:03:32,140
+quantum vacuum fluctuations work gives
+
+82
+00:03:29,769 --> 00:03:34,269
+us a sense of what the fundamental
+
+83
+00:03:32,140 --> 00:03:37,750
+particles do like where are you most
+
+84
+00:03:34,269 --> 00:03:41,170
+likely to find a cork and it turns a or
+
+85
+00:03:37,750 --> 00:03:43,120
+likes to sit on top of those lumps now
+
+86
+00:03:41,170 --> 00:03:45,730
+those lumps come into and out of
+
+87
+00:03:43,120 --> 00:03:47,380
+existence fairly quickly and so we like
+
+88
+00:03:45,730 --> 00:03:49,450
+to think of the quarks is hopping from
+
+89
+00:03:47,380 --> 00:03:52,150
+one love over to the next lump as it
+
+90
+00:03:49,450 --> 00:03:55,450
+appears and the not another one I like
+
+91
+00:03:52,150 --> 00:03:58,959
+to think of it it's - trying to cross a
+
+92
+00:03:55,450 --> 00:04:01,480
+stream that's running around every now
+
+93
+00:03:58,959 --> 00:04:03,400
+and then a stone pops up it's the water
+
+94
+00:04:01,480 --> 00:04:05,500
+swirling rabbits they put your foot
+
+95
+00:04:03,400 --> 00:04:06,880
+there and you look for the next spot go
+
+96
+00:04:05,500 --> 00:04:10,450
+quickly enough you might not get your
+
+97
+00:04:06,880 --> 00:04:12,700
+feet wet so I think quarks are very much
+
+98
+00:04:10,450 --> 00:04:14,920
+to what we know for server to much doing
+
+99
+00:04:12,700 --> 00:04:17,859
+the same thing so while it is true that
+
+100
+00:04:14,920 --> 00:04:19,720
+you and I and all of the other atoms in
+
+101
+00:04:17,859 --> 00:04:21,700
+the universe are mostly empty space
+
+102
+00:04:19,720 --> 00:04:24,730
+it is also true that
+
+103
+00:04:21,700 --> 00:04:26,560
+empty space isn't truly empty and in
+
+104
+00:04:24,730 --> 00:04:30,870
+fact it is these vacuum fluctuations
+
+105
+00:04:26,560 --> 00:04:33,820
+which are essential for our existence
+
+106
+00:04:30,870 --> 00:04:36,250
+if you're not subscribe to Derek's
+
+107
+00:04:33,820 --> 00:04:39,880
+channel veritasium I'm not what you're
+
+108
+00:04:36,250 --> 00:04:41,500
+doing with your life it is amazing I got
+
+109
+00:04:39,880 --> 00:04:45,420
+a pretty fat lip from doing this but
+
+110
+00:04:41,500 --> 00:04:45,420
+luckily all my teeth were intact
+

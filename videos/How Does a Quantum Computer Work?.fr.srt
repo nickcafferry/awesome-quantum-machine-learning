@@ -1,0 +1,316 @@
+1
+00:00:01,720 --> 00:00:07,370
+Un ordinateur classique effectue les opérations en utilisant des bits classique, qui peuvent être zéro ou
+
+2
+00:00:07,370 --> 00:00:13,630
+un. En revanche, un ordinateur quantique utilise des bits quantiques ou qubits. Ceux-ci peuvent être à la fois
+
+3
+00:00:13,630 --> 00:00:19,720
+zéro et un en même temps. Et c'est ce qui donne à l'ordinateur quantique sa supériorité
+
+4
+00:00:19,720 --> 00:00:21,179
+en puissance de calcul.
+
+5
+00:00:21,179 --> 00:00:26,169
+Il y a un certain nombre d'objets physiques qui peuvent être utilisés comme un qubit : un photon unique, un
+
+6
+00:00:26,169 --> 00:00:30,489
+noyau ou un électron. J'ai rencontré des chercheurs qui utilisent
+
+7
+00:00:30,489 --> 00:00:36,390
+l'électron de la couche périphérique du phosphore comme qubit. Mais comment ça marche ? Eh bien, tous les électrons
+
+8
+00:00:36,390 --> 00:00:41,540
+ont un champ magnétique, donc ils sont en fait comme de petites barres aimantés. Et cette propriété est
+
+9
+00:00:41,540 --> 00:00:47,300
+appelée le spin. Si vous les placez dans un champ magnétique, ils vont s'aligner avec ce champ,
+
+10
+00:00:47,300 --> 00:00:50,680
+comme une aiguille de boussole s’aligne avec le champ magnétique terrestre.
+
+11
+00:00:50,680 --> 00:00:55,760
+C'est le niveau d'énergie le plus faible, donc vous pourriez l’appeler l'état zéro, ou nous l'appelons,
+
+12
+00:00:55,760 --> 00:01:01,350
+pour l'électron, spin bas. Vous pouvez le mettre dans un état un, ou spin haut,  mais cela demande
+
+13
+00:01:01,350 --> 00:01:02,710
+de l'énergie.
+
+14
+00:01:02,710 --> 00:01:06,970
+- Si vous enleviez le verre de la boussole, vous pourriez tourner l'aiguille dans l'autre sens, mais
+
+15
+00:01:06,970 --> 00:01:13,110
+vous devrez y exercer une force. Vous devez la pousser pour la retourner dans l'autre sens.
+
+16
+00:01:13,110 --> 00:01:20,170
+Et ceci est le niveau d'énergie le plus haut. En principe, si vous étiez assez délicat pour le mettre exactement
+
+17
+00:01:20,170 --> 00:01:22,850
+alignée avec le champ magnétique, elle y resterait.
+
+18
+00:01:22,850 --> 00:01:26,780
+- Pour l'instant, c'est globalement similaire à un bit classique. Il a deux états, spin
+
+19
+00:01:26,780 --> 00:01:31,850
+haut et spin bas, qui correspondent aux "zéro et un" classiques. Mais ce qui est amusant avec les objets
+
+20
+00:01:31,850 --> 00:01:36,630
+quantiques, c'est qu'ils peuvent être dans les deux états en même temps. Quand vous mesurez le spin,
+
+21
+00:01:36,630 --> 00:01:41,440
+il sera soit haut, soit bas. Mais avant que la mesure soit faite, l'électron peut exister dans ce qu'on
+
+22
+00:01:41,440 --> 00:01:46,580
+appelle la superposition quantique, où ces coefficients indique la probabilité relative
+
+23
+00:01:46,580 --> 00:01:49,500
+de trouver l'électron dans un état ou dans l'autre.
+
+24
+00:01:49,500 --> 00:01:53,869
+Alors, c'est difficile d'imaginer comment ceci rend possible l'incroyable puissance de calcul des ordinateurs
+
+25
+00:01:53,869 --> 00:01:58,090
+quantiques, sans prendre en compte l'interaction entre deux quantum bits.
+
+26
+00:01:58,090 --> 00:01:59,810
+- Bonjour. -Salut.
+
+27
+00:01:59,810 --> 00:02:04,280
+Alors, il y a quatre états possibles pour ces deux électrons.
+
+28
+00:02:04,280 --> 00:02:09,030
+On pourrait penser que, bon, c'est exactement comme deux bits d'un ordinateur classique, n'est-ce pas ?
+
+29
+00:02:09,030 --> 00:02:15,640
+Si on a deux bits, on peut écrire zéro-zéro, zéro-un, un-zéro ou un-un. N'est-ce pas ?
+
+30
+00:02:15,640 --> 00:02:18,050
+Ça donne quatre nombres.
+
+31
+00:02:18,050 --> 00:02:22,920
+Mais cela ne représente toujours que deux bits d'information. Ok ? Tout ce que je dois dire pour déterminer
+
+32
+00:02:22,920 --> 00:02:28,640
+lequel de ces quatre nombres est dans un code informatique est la valeur du premier bit,
+
+33
+00:02:28,640 --> 00:02:37,620
+et la valeur du second bit. Ici, en revanche, la mécanique quantique me permet de faire une superposition
+
+34
+00:02:37,620 --> 00:02:44,690
+de chacun de ces quatre états. Je peux donc écrire un état quantique, qui est
+
+35
+00:02:44,690 --> 00:02:50,770
+parfaitement légitime, qui est un certain coefficient fois ça, plus un certain coefficient fois ça,
+
+36
+00:02:50,770 --> 00:02:54,069
+plus un certain coefficient fois ça, plus un certain coefficient fois ça.
+
+37
+00:02:54,069 --> 00:03:01,620
+Donc pour déterminer l'état de ce système de deux spins, j'ai besoin de vous donner quatre nombres, quatre coefficients,
+
+38
+00:03:01,620 --> 00:03:08,069
+alors que dans l'exemple classique de deux bits, j'ai juste besoin de vous donner la valeur de deux bits.
+
+39
+00:03:08,069 --> 00:03:13,989
+Vous comprenez donc pourquoi deux qubits contiennent en fait quatre bits d'information.
+
+40
+00:03:13,989 --> 00:03:18,230
+Je dois vous donner quatre nombres pour décrire l'état de ce système, alors qu'ici
+
+41
+00:03:18,230 --> 00:03:19,090
+je n'en ai besoin que de deux.
+
+42
+00:03:19,090 --> 00:03:24,550
+Si on considère maintenant trois spins, on aura alors huit états différents, et je devrais vous donner
+
+43
+00:03:24,550 --> 00:03:30,010
+huit nombres différents pour définir l'état de ces trois spins, alors que dans le cas classique
+
+44
+00:03:30,010 --> 00:03:34,519
+il ne s'agit toujours que de trois bits. Si on continue dans ce sens, on se rend compte que
+
+45
+00:03:34,519 --> 00:03:42,129
+la quantité d'information classique équivalente contenue dans N qubits est 2 à la puissance N
+
+46
+00:03:42,129 --> 00:03:45,000
+bits classiques.
+
+47
+00:03:45,000 --> 00:03:53,550
+Et, bien sûr, la puissance de l'exponentielle dit que si vous avez, disons 300
+
+48
+00:03:53,550 --> 00:04:01,459
+de ces qubits dans ce qu'on appelle un état intriqué - donc on doit être capable de créer
+
+49
+00:04:01,459 --> 00:04:06,099
+cet état complètement fou, où il y a superposition de tous ces 300 états dans tel sens
+
+50
+00:04:06,099 --> 00:04:12,629
+et tel sens et tel sens, etc - alors on a 2 à la puissance 300 bits classiques,
+
+51
+00:04:12,629 --> 00:04:17,309
+c'est-à-dire autant que le nombre de particules présentes dans l'univers.
+
+52
+00:04:17,309 --> 00:04:22,570
+Seulement voilà, bien que les qubits puissent exister dans n'importe quelle combinaison d'états,
+
+53
+00:04:22,570 --> 00:04:26,880
+lorsqu'on les mesure, ils doivent retomber dans l'un des états de base. Et le reste des informations
+
+54
+00:04:26,880 --> 00:04:29,620
+concernant l'état avant la mesure est perdu.
+
+55
+00:04:29,620 --> 00:04:36,370
+- Donc on ne veut pas avoir de manière générale un résultat final de calcul quantique
+
+56
+00:04:36,370 --> 00:04:41,400
+qui est un état de superposition très compliqué, parce qu'on ne peut pas mesurer
+
+57
+00:04:41,400 --> 00:04:44,979
+une superposition. On peut seulement mesurer l'un de ces états de base.
+
+58
+00:04:44,979 --> 00:04:47,759
+- comme bas, bas, haut, haut.
+
+59
+00:04:47,759 --> 00:04:56,500
+Oui. Donc ce que l'on veut faire, c'est de concevoir les opérations logiques dont on aurait besoin pour obtenir
+
+60
+00:04:56,500 --> 00:05:02,210
+le résultat informatique final, de manière à ce que le résultat final soit quelque chose
+
+61
+00:05:02,210 --> 00:05:05,590
+que l'on soit capable de mesurer, juste un état unique.
+
+62
+00:05:05,590 --> 00:05:06,789
+- Cela n'est pas trivial.
+
+63
+00:05:06,789 --> 00:05:11,900
+- Ce n'est pas trivial. Et, essentiellement... J'exagère un peu, mais
+
+64
+00:05:11,900 --> 00:05:18,180
+j'imagine que c'est, dans une certaine mesure, la raison pour laquelle les ordinateurs quantiques
+
+65
+00:05:18,180 --> 00:05:18,910
+ne peuvent pas remplacer les ordinateurs classiques.
+
+66
+00:05:18,910 --> 00:05:19,750
+Non ?
+
+67
+00:05:19,750 --> 00:05:26,340
+Non. Ils ne sont pas universellement plus rapides. Ils sont seulement plus rapides pour certains types
+
+68
+00:05:26,340 --> 00:05:32,740
+de calculs, pour lesquels on peut utiliser le fait d'avoir toutes ces superpositions quantiques
+
+69
+00:05:32,740 --> 00:05:39,470
+disponibles en même temps, pour faire une sorte de parallélisme informatique.
+
+70
+00:05:39,470 --> 00:05:46,050
+Si vous voulez juste regarder une vidéo en haute définition ou surfer sur internet, ou écrire un document
+
+71
+00:05:46,050 --> 00:05:54,389
+sur lequel vous travaillez, il ne vont pas apporter d'amélioration particulière, si vous utilisez un
+
+72
+00:05:54,389 --> 00:05:59,449
+algorithme classique pour obtenir le résultat. Donc vous ne devez pas penser que dans un ordinateur quantique,
+
+73
+00:05:59,449 --> 00:06:05,120
+chaque opération est plus rapide. En fait, chaque opération sera probablement plus lente
+
+74
+00:06:05,120 --> 00:06:11,180
+que l'ordinateur que vous avez sur votre bureau. Mais dans cet ordinateur, le nombre d'opérations
+
+75
+00:06:11,180 --> 00:06:18,310
+nécessaires pour arriver au résultat est exponentiellement bas. Donc l'amélioration n'est pas dans la vitesse
+
+76
+00:06:18,310 --> 00:06:23,550
+de chaque opération individuelle. Elle est dans le nombre total d'opérations nécessaires pour arriver
+
+77
+00:06:23,550 --> 00:06:27,150
+au résultat. Mais cela ne s'applique qu'à certains types
+
+78
+00:06:27,150 --> 00:06:34,039
+de calculs particuliers, certains algorithmes. Ce n'est pas universel, voilà pourquoi
+
+79
+00:06:34,039 --> 00:06:46,230
+cela ne peut pas remplacer un ordinateur classique.
+

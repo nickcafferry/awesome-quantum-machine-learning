@@ -1,0 +1,592 @@
+1
+00:00:00,030 --> 00:00:06,089
+a classical computer performs operations
+
+2
+00:00:03,510 --> 00:00:09,450
+using classical bits which can be either
+
+3
+00:00:06,089 --> 00:00:12,480
+0 or 1 now in contrast a quantum
+
+4
+00:00:09,450 --> 00:00:15,599
+computer uses quantum bits or qubits and
+
+5
+00:00:12,480 --> 00:00:18,330
+they can be both 0 and 1 at the same
+
+6
+00:00:15,599 --> 00:00:20,609
+time and it is this that gives a quantum
+
+7
+00:00:18,330 --> 00:00:22,680
+computer it's superior computing power
+
+8
+00:00:20,609 --> 00:00:25,320
+there are a number of physical objects
+
+9
+00:00:22,680 --> 00:00:28,920
+that can be used as a qubit a single
+
+10
+00:00:25,320 --> 00:00:30,390
+photon a nucleus or an electron I met up
+
+11
+00:00:28,920 --> 00:00:32,460
+with researchers who are using the
+
+12
+00:00:30,390 --> 00:00:35,520
+outermost electron in phosphorus as a
+
+13
+00:00:32,460 --> 00:00:37,739
+qubit but how does that work well all
+
+14
+00:00:35,520 --> 00:00:40,140
+electrons have magnetic fields so
+
+15
+00:00:37,739 --> 00:00:43,230
+they're basically like tiny bar magnets
+
+16
+00:00:40,140 --> 00:00:45,149
+and this property is called spin if you
+
+17
+00:00:43,230 --> 00:00:47,460
+place them in a magnetic field they will
+
+18
+00:00:45,149 --> 00:00:49,170
+align with that field just like a
+
+19
+00:00:47,460 --> 00:00:51,390
+compass needle lines up with the
+
+20
+00:00:49,170 --> 00:00:53,579
+magnetic field of the earth now this is
+
+21
+00:00:51,390 --> 00:00:55,980
+the lowest energy State so you can call
+
+22
+00:00:53,579 --> 00:00:58,890
+it the zero State or we call it for the
+
+23
+00:00:55,980 --> 00:01:01,260
+electron spin down now you can put it in
+
+24
+00:00:58,890 --> 00:01:03,989
+a one state or spin up but that takes
+
+25
+00:01:01,260 --> 00:01:05,970
+some energy if you took out the glass
+
+26
+00:01:03,989 --> 00:01:07,170
+from your compass you could turn the
+
+27
+00:01:05,970 --> 00:01:09,830
+needle the other way but you would have
+
+28
+00:01:07,170 --> 00:01:12,720
+to apply some force to it you have to
+
+29
+00:01:09,830 --> 00:01:15,180
+push it to flip to the other side and
+
+30
+00:01:12,720 --> 00:01:18,720
+that is the highest energy state in
+
+31
+00:01:15,180 --> 00:01:20,640
+principle if you were so delicate to
+
+32
+00:01:18,720 --> 00:01:22,950
+really put it exactly against the
+
+33
+00:01:20,640 --> 00:01:24,450
+magnetic field it would stay there now
+
+34
+00:01:22,950 --> 00:01:26,790
+so far this is basically just like a
+
+35
+00:01:24,450 --> 00:01:28,439
+classical bit it's got two states spin
+
+36
+00:01:26,790 --> 00:01:30,990
+up and spin down would you like the
+
+37
+00:01:28,439 --> 00:01:32,759
+classical one and zero but the funny
+
+38
+00:01:30,990 --> 00:01:34,829
+thing about quantum objects is that they
+
+39
+00:01:32,759 --> 00:01:36,900
+can be in both states at once
+
+40
+00:01:34,829 --> 00:01:39,720
+now when you measure the spin it will be
+
+41
+00:01:36,900 --> 00:01:41,490
+either up or down but before you measure
+
+42
+00:01:39,720 --> 00:01:43,920
+it the electron can exist in what's
+
+43
+00:01:41,490 --> 00:01:45,570
+called a quantum superposition where
+
+44
+00:01:43,920 --> 00:01:47,640
+these coefficients indicate the relative
+
+45
+00:01:45,570 --> 00:01:50,130
+probability of finding the electron in
+
+46
+00:01:47,640 --> 00:01:52,320
+one state or the other now it's hard to
+
+47
+00:01:50,130 --> 00:01:53,970
+imagine how this enables the incredible
+
+48
+00:01:52,320 --> 00:01:56,670
+computing power of quantum computers
+
+49
+00:01:53,970 --> 00:02:00,930
+without considering two interacting
+
+50
+00:01:56,670 --> 00:02:03,719
+quantum bits hello hi now there are four
+
+51
+00:02:00,930 --> 00:02:06,360
+possible states of these two electrons
+
+52
+00:02:03,719 --> 00:02:08,879
+you could think that well it's just like
+
+53
+00:02:06,360 --> 00:02:12,060
+two bits of a classical computer right
+
+54
+00:02:08,879 --> 00:02:13,620
+if you have two bits you can write 0 0 0
+
+55
+00:02:12,060 --> 00:02:18,390
+1 1 0
+
+56
+00:02:13,620 --> 00:02:20,400
+one and it's for numbers but these are
+
+57
+00:02:18,390 --> 00:02:23,159
+still just two bits of information right
+
+58
+00:02:20,400 --> 00:02:25,319
+all I need to say to determine which one
+
+59
+00:02:23,159 --> 00:02:27,810
+of the four numbers you have in your
+
+60
+00:02:25,319 --> 00:02:31,799
+computer code is the value of the first
+
+61
+00:02:27,810 --> 00:02:35,940
+bit and the value of the secretary here
+
+62
+00:02:31,799 --> 00:02:39,540
+instead quantum mechanics allows it to
+
+63
+00:02:35,940 --> 00:02:43,650
+make superposition of each one of these
+
+64
+00:02:39,540 --> 00:02:45,150
+four states so I can write a quantum
+
+65
+00:02:43,650 --> 00:02:47,459
+mechanical state which is perfectly
+
+66
+00:02:45,150 --> 00:02:50,190
+legitimate that is some coefficient
+
+67
+00:02:47,459 --> 00:02:52,260
+times this plus some coefficient times
+
+68
+00:02:50,190 --> 00:02:55,170
+that plus some coefficient and that plus
+
+69
+00:02:52,260 --> 00:02:58,440
+some coefficient so to determine the
+
+70
+00:02:55,170 --> 00:03:00,709
+state of this two spin system I need to
+
+71
+00:02:58,440 --> 00:03:04,200
+give you four numbers four coefficients
+
+72
+00:03:00,709 --> 00:03:06,150
+whereas in the classical example of the
+
+73
+00:03:04,200 --> 00:03:09,450
+two bits I only need to give you two
+
+74
+00:03:06,150 --> 00:03:13,319
+bits so this is how you understand why
+
+75
+00:03:09,450 --> 00:03:14,879
+two qubits actually contain four bits of
+
+76
+00:03:13,319 --> 00:03:16,560
+information I need to give you four
+
+77
+00:03:14,879 --> 00:03:19,950
+numbers to tell you the state of the
+
+78
+00:03:16,560 --> 00:03:22,739
+system whereas here only need two if we
+
+79
+00:03:19,950 --> 00:03:24,480
+make three spins we would have eight
+
+80
+00:03:22,739 --> 00:03:27,329
+different states I need to give you
+
+81
+00:03:24,480 --> 00:03:29,370
+eight different numbers to define the
+
+82
+00:03:27,329 --> 00:03:32,459
+state of those three spins whereas
+
+83
+00:03:29,370 --> 00:03:34,590
+classical is just three bits if you keep
+
+84
+00:03:32,459 --> 00:03:36,750
+going what you'll find is that the
+
+85
+00:03:34,590 --> 00:03:41,489
+amount of equivalent classical
+
+86
+00:03:36,750 --> 00:03:46,739
+information contained by n qubits is two
+
+87
+00:03:41,489 --> 00:03:50,609
+to the power n classical bits and of
+
+88
+00:03:46,739 --> 00:03:54,120
+course the power of Exponential's tells
+
+89
+00:03:50,609 --> 00:03:57,510
+you that once you have let's say 300 of
+
+90
+00:03:54,120 --> 00:04:00,299
+those qubits in what we call the fully
+
+91
+00:03:57,510 --> 00:04:03,269
+entangled state so you must be able to
+
+92
+00:04:00,299 --> 00:04:05,250
+create these really crazy states where
+
+93
+00:04:03,269 --> 00:04:07,139
+there is a superposition of all three
+
+94
+00:04:05,250 --> 00:04:10,049
+others being one way and another way in
+
+95
+00:04:07,139 --> 00:04:12,480
+the other way and so on then you have
+
+96
+00:04:10,049 --> 00:04:16,139
+like two to the three hundred classical
+
+97
+00:04:12,480 --> 00:04:18,440
+bits which is as many particles as there
+
+98
+00:04:16,139 --> 00:04:20,760
+are universe but there's a catch
+
+99
+00:04:18,440 --> 00:04:22,770
+although the qubits can exist in any
+
+100
+00:04:20,760 --> 00:04:24,479
+combination of states when they are
+
+101
+00:04:22,770 --> 00:04:26,219
+measured they must fall into one of the
+
+102
+00:04:24,479 --> 00:04:27,330
+basis states and all the other
+
+103
+00:04:26,219 --> 00:04:29,669
+information about this
+
+104
+00:04:27,330 --> 00:04:32,669
+before the measurement is lost so you
+
+105
+00:04:29,669 --> 00:04:35,960
+don't walk generally to have as the
+
+106
+00:04:32,669 --> 00:04:38,599
+final result of your quantum computation
+
+107
+00:04:35,960 --> 00:04:40,560
+something that is a very complicated
+
+108
+00:04:38,599 --> 00:04:42,449
+superposition of states because you
+
+109
+00:04:40,560 --> 00:04:47,060
+cannot measure a superposition you can
+
+110
+00:04:42,449 --> 00:04:47,060
+only measure one of these basis States
+
+111
+00:04:47,330 --> 00:04:56,699
+so what you want is to design the logic
+
+112
+00:04:53,789 --> 00:04:59,280
+operations that you need to get to the
+
+113
+00:04:56,699 --> 00:05:02,069
+final computational result in such a way
+
+114
+00:04:59,280 --> 00:05:04,530
+that the final result is something
+
+115
+00:05:02,069 --> 00:05:08,400
+you're able to measure it's just a
+
+116
+00:05:04,530 --> 00:05:11,250
+unique state there's no trigger and it's
+
+117
+00:05:08,400 --> 00:05:13,069
+essentially kind of stretching things
+
+118
+00:05:11,250 --> 00:05:16,860
+there but I guess it's to some degree
+
+119
+00:05:13,069 --> 00:05:20,849
+the reason why quantum computers are not
+
+120
+00:05:16,860 --> 00:05:23,129
+a replacement for classical no no
+
+121
+00:05:20,849 --> 00:05:26,490
+they're not universally faster they're
+
+122
+00:05:23,129 --> 00:05:30,479
+only faster for special types of
+
+123
+00:05:26,490 --> 00:05:31,979
+calculations where you can use the fact
+
+124
+00:05:30,479 --> 00:05:33,690
+that you have all these quantum
+
+125
+00:05:31,979 --> 00:05:36,199
+superpositions available to you at the
+
+126
+00:05:33,690 --> 00:05:39,690
+same time to do some kind of
+
+127
+00:05:36,199 --> 00:05:41,839
+computational parallelism if you just
+
+128
+00:05:39,690 --> 00:05:44,099
+want to watch a video in height in
+
+129
+00:05:41,839 --> 00:05:46,979
+high-definition or browse the internet
+
+130
+00:05:44,099 --> 00:05:51,120
+or write some document in Word they're
+
+131
+00:05:46,979 --> 00:05:55,050
+not gonna give you any particular rule
+
+132
+00:05:51,120 --> 00:05:57,240
+if you need to use a classical algorithm
+
+133
+00:05:55,050 --> 00:05:59,610
+to get yourself so you should not think
+
+134
+00:05:57,240 --> 00:06:02,699
+of a quantum computer as something where
+
+135
+00:05:59,610 --> 00:06:04,289
+every operation is faster in fact every
+
+136
+00:06:02,699 --> 00:06:06,710
+operation is probably gonna be slower
+
+137
+00:06:04,289 --> 00:06:10,379
+then in the computer you have the desk
+
+138
+00:06:06,710 --> 00:06:12,690
+but it's an a computer where the number
+
+139
+00:06:10,379 --> 00:06:16,650
+of operations required to arrive at the
+
+140
+00:06:12,690 --> 00:06:18,629
+result is exponentially small so the
+
+141
+00:06:16,650 --> 00:06:21,599
+improvement is not in the speed of the
+
+142
+00:06:18,629 --> 00:06:23,490
+individual operation is in the total
+
+143
+00:06:21,599 --> 00:06:25,139
+number of operations you need to arrive
+
+144
+00:06:23,490 --> 00:06:28,139
+at the result but that is only the case
+
+145
+00:06:25,139 --> 00:06:31,540
+in particular types of calculations in
+
+146
+00:06:28,139 --> 00:06:35,110
+particular algorithm is not universally
+
+147
+00:06:31,540 --> 00:06:37,590
+which is why it's not a replacement of a
+
+148
+00:06:35,110 --> 00:06:37,590
+classical
+

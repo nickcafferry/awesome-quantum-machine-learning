@@ -1,0 +1,260 @@
+1
+00:00:00,532 --> 00:00:02,535
+De acordo com a Mecânica Quântica,
+
+2
+00:00:02,535 --> 00:00:07,542
+todas as partículas no universo são descritas pelo que chamamos de função de onda,
+
+3
+00:00:07,542 --> 00:00:11,853
+e as funções de onda quânticas são descritas pela equação de Schrodinger.
+
+4
+00:00:12,831 --> 00:00:18,310
+Embora o comportamento de todas as partículas subatômicas seja inerentemente probabilísticas,
+
+5
+00:00:18,310 --> 00:00:22,650
+A equação de Schrodinger não contem em si nenhuma probabilidade
+
+6
+00:00:23,773 --> 00:00:29,402
+A probabilidade de toda observação possível é determinada pela função de onda,
+
+7
+00:00:29,402 --> 00:00:31,740
+mas antes da observação,
+
+8
+00:00:31,740 --> 00:00:36,751
+a função de onda muda e evolui de um maneira completamente determinística.
+
+9
+00:00:37,768 --> 00:00:41,328
+Esta maneira determinística na qual a função de onda comporta-se
+
+10
+00:00:41,328 --> 00:00:46,288
+sem a presença de qualquer observador é descrita pela equação de Schrodinger.
+
+11
+00:00:47,935 --> 00:00:51,034
+Partículas carregadas exercem forças uma sobre a outra.
+
+12
+00:00:54,964 --> 00:00:58,963
+Podemos imaginar isso dizendo que em diferentes pontos no espaço,
+
+13
+00:00:58,963 --> 00:01:03,085
+uma partícula carregada tem uma quantidade diferente de energia potencial.
+
+14
+00:01:08,313 --> 00:01:14,628
+A altura deste gráfico em cada ponto no espaço é representado pela variável "V".
+
+15
+00:01:22,237 --> 00:01:25,503
+A altura não representa uma dimensão espacial,
+
+16
+00:01:25,503 --> 00:01:30,896
+mas o valor da energia potencial para nossas partículas carregas em cada localização.
+
+17
+00:01:36,306 --> 00:01:39,596
+"M" representa a massa da partícula.
+
+18
+00:01:47,447 --> 00:01:52,167
+"H cortado" representa a constante de Planck dividida por 2 π.
+
+19
+00:01:59,548 --> 00:02:05,505
+Esta variável representa o valor da função  de onda em cada ponto do espaço e tempo.
+
+20
+00:02:11,577 --> 00:02:16,344
+Este gráfico mostra a função de onda ao longo de uma das três dimensões espaciais.
+
+21
+00:02:22,645 --> 00:02:27,581
+Para cada ponto no espaço e tempo, a função de onda é um número complexo.
+
+22
+00:02:27,581 --> 00:02:31,041
+com uma componente real e uma componente imaginária.
+
+23
+00:02:46,258 --> 00:02:47,859
+Estas expressões indicam
+
+24
+00:02:47,859 --> 00:02:53,187
+o quanto a função de onda varia quando  X aumenta de uma pequena quantidade.
+
+25
+00:03:01,846 --> 00:03:07,337
+Esta mudança é um número complexo que pode ser representado com setas como mostrado.
+
+26
+00:03:18,739 --> 00:03:23,758
+Sem a mudança da coordenada X ou da direção de qualquer destas setas,
+
+27
+00:03:23,758 --> 00:03:27,811
+vamos mostrar cada uma destas setas iniciando ao longo do eixo X.
+
+28
+00:03:33,961 --> 00:03:38,877
+A quantidade pela qual estas setas variam quando nós aumentamos X de uma pequena quantidade
+
+29
+00:03:38,877 --> 00:03:41,724
+é representada por esta outra expressão.
+
+30
+00:03:55,436 --> 00:03:58,878
+Em cada ponto no espaço, a soma destes três valores
+
+31
+00:03:58,878 --> 00:04:02,657
+é um número complexo representado pelo seguinte símbolo.
+
+32
+00:04:20,084 --> 00:04:24,565
+Agora, nós cobrimos todos os símbolos da parte esquerda da equação de Schrodinger.
+
+33
+00:04:30,215 --> 00:04:33,256
+Vamos nos focar no lado direito da equação.
+
+34
+00:04:41,215 --> 00:04:46,585
+Como no exemplo anterior, este gráfico representa o valor da função de onda
+
+35
+00:04:46,585 --> 00:04:49,974
+ao longo de somente uma das três dimensões espaciais.
+
+36
+00:04:52,563 --> 00:04:58,155
+Estas setas indicam o quanto a função de onda em cada ponto do espaço varia
+
+37
+00:04:58,155 --> 00:05:01,724
+se o tempo aumenta de uma pequena quantidade.
+
+38
+00:05:13,120 --> 00:05:17,901
+Sem mudar a coordenada X ou a direção de qualquer um destas setas,
+
+39
+00:05:17,901 --> 00:05:22,500
+vamos mostrar cada uma destas setas iniciando ao longo do eixo X.
+
+40
+00:05:27,428 --> 00:05:32,250
+Se nós multiplicarmos estas setas por "h cortado", seus comprimentos variam.
+
+41
+00:05:42,086 --> 00:05:46,365
+Se nós então multiplicarmos estas setas pelo número imaginário "i",
+
+42
+00:05:46,365 --> 00:05:49,894
+todas estas setas são rotacionadas de 90 graus.
+
+43
+00:05:58,621 --> 00:06:02,154
+Cadas uma destas setas agora representam um número complexo
+
+44
+00:06:02,154 --> 00:06:05,844
+que é igual ao lado direito da equação de Schrodinger.
+
+45
+00:06:08,800 --> 00:06:13,810
+O lado direito da equação de Schrodinger precisa ser sempre igual ao lado esquerdo.
+
+46
+00:06:22,792 --> 00:06:26,242
+Se a partícula está movendo-se em uma direção,
+
+47
+00:06:26,242 --> 00:06:30,294
+a equação de Schrodinger pode ser simplificada como a seguir.
+
+48
+00:06:44,607 --> 00:06:50,136
+Se tivermos uma função com um pequeno comprimento de onda, então este parâmetro será maior.
+
+49
+00:06:56,704 --> 00:07:02,798
+Para que ambos dos lados da equação sejam iguais, este outro parâmetro precisa ser também  maior.
+
+50
+00:07:08,840 --> 00:07:13,951
+Este outro parâmetro representa o quão rapidamente a função de onda está rotacionando.
+
+51
+00:07:20,827 --> 00:07:25,347
+Portanto, se tivermos uma função de onda com pequeno comprimento de onda,
+
+52
+00:07:25,347 --> 00:07:29,064
+a função de onda deve rotacionar com  alta frequência.
+
+53
+00:07:32,961 --> 00:07:36,770
+Quanto maior a frequência, maior a energia da partícula.
+
+54
+00:07:38,770 --> 00:07:44,790
+Se a energia da partícula é conhecida e é representada pela variável "E",
+
+55
+00:07:44,790 --> 00:07:49,319
+então o lado direito da equação Schrodinger é igual ao seguinte.
+
+56
+00:07:55,638 --> 00:08:00,146
+Portanto, se a energia da partícula é conhecida com certeza,
+
+57
+00:08:00,146 --> 00:08:03,415
+a equação de Schrodinger pode ser simplificada como mostrado.
+
+58
+00:08:18,909 --> 00:08:23,598
+Se nós também conhecermos a energia potencia em cada ponto do espaço,
+
+59
+00:08:23,598 --> 00:08:26,317
+simbolizado pela variável "V",
+
+60
+00:08:26,317 --> 00:08:31,017
+poderemos então calcular todas as funções de onda possíveis para a partícula.
+
+61
+00:08:33,554 --> 00:08:36,166
+Muito mais informação sobre este tópico está disponível
+
+62
+00:08:36,166 --> 00:08:40,477
+no vídeo "Visualização da função de onda quântica".
+
+63
+00:08:40,477 --> 00:08:45,193
+Além disso, detalhes sobre como uma função de onda determina as probabilidades
+
+64
+00:08:45,193 --> 00:08:50,896
+para todas as possíveis observações está disponível no vídeo "Operadores quânticos".
+
+65
+00:08:52,124 --> 00:08:55,734
+Por favor inscreva-se para ser notificado quando novos vídeos estiverem disponíveis.
+

@@ -1,0 +1,317 @@
+1
+00:00:01,720 --> 00:00:07,370
+Klasik bir bilgisayar tüm işlemlerini 1 ya da 0 değerini alabilen klasik bitlerle yapar.
+
+2
+00:00:07,370 --> 00:00:13,630
+Bir kuantum bilgisayar ise kuantum bitlerini yani Qubitleri kullanır.
+
+3
+00:00:13,630 --> 00:00:19,720
+Bunlar aynı anda hem 1 hem de 0 değerini alabilirler.
+
+4
+00:00:19,720 --> 00:00:21,179
+Kuantum bilgisayarlar işlem gücünü bu Qubitlerden alırlar.
+
+5
+00:00:21,179 --> 00:00:26,169
+Kübit olarak kullanılabilecek bir dizi fiziksel nesne vardır;
+
+6
+00:00:26,169 --> 00:00:30,489
+bir foton, atom çekirdeği veya elektron. Fosforun en dış yörüngesindeki elektronu
+
+7
+00:00:30,489 --> 00:00:36,390
+Qubit olarak kullanan biri ile buluştum. Peki bu elektron nasıl Qubit olarak çalışır?
+
+8
+00:00:36,390 --> 00:00:41,540
+Bütün elektronlar manyetik alana sahiptir. Yani birer küçük çubuk mıknatıs gibidir.
+
+9
+00:00:41,540 --> 00:00:47,300
+ve bu özellikleri "spin" olarak adlandırılır. Bu elektronları manyetik alana sokarsanız;
+
+10
+00:00:47,300 --> 00:00:50,680
+manyetik kuvvetin etkisiyle manyetik alan doğrultusunda yön değiştirirler.
+
+11
+00:00:50,680 --> 00:00:55,760
+Tıpkı bir pusula iğnesinin dünyanın manyetik alanının etkisiyle hareket ettiği gibi.
+
+12
+00:00:55,760 --> 00:01:01,350
+Bu durum en düşük enerji seviyesini oluşturur. Yani bu duruma "0" durumu diyebiliriz. Ya da elektron için "spin down" durumu diyebiliriz.
+
+13
+00:01:01,350 --> 00:01:01,900
+Elektronu "1" ya da diğer deyişle "spin up" konumuna getirebilirsiniz.  Fakat bunun için enerji gerecektir.
+
+14
+00:01:02,710 --> 00:01:06,970
+Eğer pusulanızın camını kaldırıp pusula iğnesini döndürmeye çalışabilirsiniz.
+
+15
+00:01:06,970 --> 00:01:13,110
+Fakat bunun için biraz kuvvet uygulayarak iğneyi itip diğer yöne döndürmeniz gerekir.
+
+16
+00:01:13,110 --> 00:01:20,170
+Ve bu da en yüksek enerji seviyesidir.
+
+17
+00:01:20,170 --> 00:01:22,850
+Prensipte manyetik alana karşı koyamayacak kadar nazik olsaydınız iğne yerinden oynamazdı.
+
+18
+00:01:22,850 --> 00:01:26,780
+Buraya kadar bu sadece klasik bir "bit"
+
+19
+00:01:26,780 --> 00:01:31,850
+"1" ve "0" durumu diyebileceğimiz iki duruma sahip; "spin down" ve "spin up"
+
+20
+00:01:31,850 --> 00:01:36,630
+Ama kuantum nesnelerle ilgili ilginç olan nokta
+
+21
+00:01:36,630 --> 00:01:41,440
+Aynı anda iki durumda da olabilmeleri
+
+22
+00:01:41,440 --> 00:01:46,580
+Eğer spini ölçerseniz ya "spin down" ya da "spin up" durumunda olacaktır.
+
+23
+00:01:46,580 --> 00:01:48,500
+Fakat ölçümden önce elektron "kuantum süperpozisyonu" denilen durumda bulunabilir.
+
+24
+00:01:48,500 --> 00:01:50,800
+Bu katsayılar elektronun hangi durumda bulunabileceği olasılığını gösterir.
+
+25
+00:01:53,869 --> 00:01:58,090
+İki kuantum bitinin etkileşimini ele almadan bunun bilgisayarların işlem gücünü nasıl arttırabileceğini anlamak çok güç.
+
+26
+00:01:58,090 --> 00:01:59,810
+" Merhaba! "
+
+27
+00:01:59,810 --> 00:02:04,280
+Sizin de düşündüğünüz gibi bu iki elektron için
+
+28
+00:02:04,280 --> 00:02:09,030
+dört farklı durum söz konusu
+
+29
+00:02:09,030 --> 00:02:15,640
+Bu tıpkı sizin de sahip olduğunuz klasik bilgisayarlarda ki iki bitin durumu gibi.
+
+30
+00:02:15,640 --> 00:02:18,050
+ 
+
+31
+00:02:18,050 --> 00:02:22,920
+Eğer iki bitiniz varsa "00", "01", "10", "11" sayılarını yazabilirsiniz.
+
+32
+00:02:22,920 --> 00:02:28,640
+Ancak yine de bu bilgiler iki bitten oluşur.
+
+33
+00:02:28,640 --> 00:02:37,620
+Bilgisayarınızın kodlarında bu dört sayıdan hangisinin bulunduğunu belirlemem için
+
+34
+00:02:37,620 --> 00:02:44,690
+tüm gereken birinci ve ikinci bitin durumunu tanımlamak. Burada aslında Kuantum Mekaniği bu dört durumun her biri için
+
+35
+00:02:44,690 --> 00:02:50,770
+Süperpozisyon durumunu oluşturmamıza izin verir. Yani tamamen mantıklı bir Kuantum - Mekanik durum yazabilirim.
+
+36
+00:02:50,770 --> 00:02:54,069
+Bir katsayı çarpı bu durum artı başka bir katsayı çarpı bu durum artı başka bir katsayı daha çarpı
+
+37
+00:02:54,069 --> 00:03:01,620
+bu durum artı başka bir katsayı çarpı bu durum. Yani bu iki "spin"li sisteminin durumunu belirleyebilmeniz için size bu dört sayıyı yani dört katsayıyı vermem gerekir.
+
+38
+00:03:01,620 --> 00:03:08,069
+Halbuki bu klasik örnekte durumu belirlemek için iki biti bilmem yeterli
+
+39
+00:03:08,069 --> 00:03:13,989
+İki Qubitin nasıl 4 bitlik bilgi içerdiğini bu şekilde açıklayabiliriz.
+
+40
+00:03:13,989 --> 00:03:18,230
+Bu sistemin durumunu belirleyebilmemiz için dört farklı katsayıyı bilmemiz gerekiyor.
+
+41
+00:03:18,230 --> 00:03:19,090
+ 
+
+42
+00:03:19,090 --> 00:03:24,550
+Ama burada sadece iki sayıya ihtiyacımız var
+
+43
+00:03:24,550 --> 00:03:30,010
+Eğer 3 spin olsaydı elimizde sekiz farklı durum olurdu ve bu 3 spinin durumunu belirleyebilmemiz için sekiz farklı sayıyı bilmemiz gerekirdi.
+
+44
+00:03:30,010 --> 00:03:34,519
+Klasik sistemde ise sadece üç biti bilmemiz yeterliydi.
+
+45
+00:03:34,519 --> 00:03:42,129
+Bu şekilde devam ederseniz N Qubit ile elde edilen bilgi 2 üzeri N klasik bitle elde edilen
+
+46
+00:03:42,129 --> 00:03:45,000
+muazzam büyüklükteki  bilgiye eşdeğer olur.
+
+47
+00:03:45,000 --> 00:03:53,550
+Diyelim ki elimizde 300 Qubit var.
+
+48
+00:03:53,550 --> 00:04:01,459
+Bu Qubitlerle 2 üzeri 300 yani 2 rakamından sonra 90 tane sıfırın olacağı bir sayı elde edersiniz.
+
+49
+00:04:01,459 --> 00:04:06,099
+Yani her biri çılgınca farklı durumlarda olabilen 300 Qubit ile oluşturulan
+
+50
+00:04:06,099 --> 00:04:12,629
+bu muazzam bilgiyi klasik bilgisayarlarda oluşturabilmek için
+
+51
+00:04:12,629 --> 00:04:17,309
+2 üzeri N klasik bite ihtiyacımız var.
+
+52
+00:04:17,309 --> 00:04:22,570
+Fakat Qubitlerin birçok farklı kombinasyonda bulunabilmelerine rağmen
+
+53
+00:04:22,570 --> 00:04:26,880
+önemli bir nokta var; 
+Qubitlerin durumu ölçülmek istendiğinde temel duruma yani "1" ya da "0" durumuna dönüyorlar.
+
+54
+00:04:26,880 --> 00:04:29,620
+Ve ölçümden önce oluşturulan tüm bilgi kayboluyor.
+
+55
+00:04:29,620 --> 00:04:36,370
+Yani hiçbir zaman kuantum hesaplamayı nihai sonuç olarak istemezsiniz.
+
+56
+00:04:36,370 --> 00:04:41,400
+Bu yüzden süperpozisyon durumu çok karmaşıktır. Çünkü süperpozisyonu ölçemezsiniz.
+
+57
+00:04:41,400 --> 00:04:44,979
+Ölçümünüzün sonucu temel iki durumdan biri; "1" ya da "0" olacaktır.
+
+58
+00:04:44,979 --> 00:04:47,759
+ 
+
+59
+00:04:47,759 --> 00:04:56,500
+Yani ihtiyacınız olan şey lojik işlemleri istediğiniz sonuçları alacak şekilde tasarlamak.
+
+60
+00:04:56,500 --> 00:05:02,210
+Nihai sonuç olarak bu şekilde ölçebilirsiniz; Sadece tek bir durum (1 ya da 0) olarak.
+
+61
+00:05:02,210 --> 00:05:05,590
+ 
+
+62
+00:05:05,590 --> 00:05:06,789
+ 
+
+63
+00:05:06,789 --> 00:05:11,900
+Ve aslında bana göre bu yüzden kuantum bilgisayarlar
+
+64
+00:05:11,900 --> 00:05:18,180
+klasik bilgisayarların yerini alamaz.
+
+65
+00:05:18,180 --> 00:05:18,910
+ 
+
+66
+00:05:18,910 --> 00:05:19,750
+ 
+
+67
+00:05:19,750 --> 00:05:26,340
+Evrensel olarak hızlı değiller. Hızlılar, ama sadece paralel durumların söz konusu
+
+68
+00:05:26,340 --> 00:05:32,740
+olduğu özel durumlarda kuantum süperpozisyonu sadece bu tür
+
+69
+00:05:32,740 --> 00:05:39,470
+hesaplamalarda kullanabilirsiniz
+
+70
+00:05:39,470 --> 00:05:46,050
+Eğer sadece çok yüksek çözünürlükte bir film izlemek istiyorsanız ya da internette dolaşmak,
+
+71
+00:05:46,050 --> 00:05:54,389
+bazı dokümanlar hazırlamak istiyorsanız
+
+72
+00:05:54,389 --> 00:05:59,449
+kuantum bilgisayarlar sizin için bir gelişme sağlamaz.
+
+73
+00:05:59,449 --> 00:06:05,120
+Eğer klasik bir algoritma kullanacaksanız kuantum bilgisayarlar işinize yaramaz.
+
+74
+00:06:05,120 --> 00:06:11,180
+Yani kuantum bilgisayarlar her işlemin çok hızlı yapıldığı bir bilgisayar olarak düşünemezsiniz.
+
+75
+00:06:11,180 --> 00:06:18,310
+Aslında tüm işlemler evinizdeki klasik bilgisayarınızdan daha yavaş olacaktır. Bu bilgisayarlar gerekli işlemlerin sayısı ve sonuçları üslü sayılarla ifade edilen hesaplamalarda kullanılırlar.
+
+76
+00:06:18,310 --> 00:06:23,550
+Yani bu bilgisayarların getirdiği gelişme bireysel işlemler üzerindeki hızı değildir.
+
+77
+00:06:23,550 --> 00:06:27,150
+Gelişme sonucu elde etmek  için yapmanız gereken toplam işlem sayısındadır.
+
+78
+00:06:27,150 --> 00:06:34,039
+Ama sadece özel işlemlerde ya da özel algoritmalarda. Tüm işlemlerde değil.
+
+79
+00:06:34,039 --> 00:06:46,230
+Bu yüzden klasik bilgisayarların yerini alamazlar.
+

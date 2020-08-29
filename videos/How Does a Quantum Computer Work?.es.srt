@@ -1,0 +1,316 @@
+1
+00:00:01,720 --> 00:00:07,370
+Un computador clásico realiza operaciones utilizando bits clásicos, que pueden ser cero o uno.
+
+2
+00:00:07,370 --> 00:00:13,630
+Ahora bien, en contraste, un computador cuántico utiliza bits cuánticos o Qubits. Y pueden ser a la vez
+
+3
+00:00:13,630 --> 00:00:19,720
+cero y uno al mismo tiempo. Y esto es lo que da un computador cuántico su capacidad
+
+4
+00:00:19,720 --> 00:00:21,179
+superior de cálculo.
+
+5
+00:00:21,179 --> 00:00:26,169
+Hay una serie de objetos físicos que se pueden utilizar como un Qubit: un fotón,
+
+6
+00:00:26,169 --> 00:00:30,489
+un núcleo o un electrón. Me reuní con los investigadores que estaban utilizando el
+
+7
+00:00:30,489 --> 00:00:36,390
+electrón exterior de fósforo como un Qubit. Pero, ¿cómo funciona esto? Bueno, todos los electrones
+
+8
+00:00:36,390 --> 00:00:41,540
+tienen campos magnéticos y por consiguiente, son pequeños imanes. Y esta propiedad
+
+9
+00:00:41,540 --> 00:00:47,300
+se llama spin. Si se ponen en un campo magnético, se alinearán con este campo, justo
+
+10
+00:00:47,300 --> 00:00:50,680
+como la aguja de la brújula se alínea con el campo mágnético de la tierra.
+
+11
+00:00:50,680 --> 00:00:55,760
+Este es el estado de más baja energía, y por eso se llama estado "cero", o -para el caso del electrón-
+
+12
+00:00:55,760 --> 00:01:01,350
+lo llamamos spin abajo. También se puede poner en el estado "uno" o spin arriba, pero esto requiere
+
+13
+00:01:01,350 --> 00:01:02,710
+energía.
+
+14
+00:01:02,710 --> 00:01:06,970
+>> Si se retirara la tapa la brújula, se podría girar la aguja en sentido contrario, pero
+
+15
+00:01:06,970 --> 00:01:13,110
+sería necesario aplicarle fuerza. Tendría que empujarlo para girar en sentido contrario.
+
+16
+00:01:13,110 --> 00:01:20,170
+y ese es el estado de alta energía. En principio, si tuviera suficiente cuidado para ponerlo exactamente
+
+17
+00:01:20,170 --> 00:01:22,850
+en contra del campo magnético, permanecería en esa posición.
+
+18
+00:01:22,850 --> 00:01:26,780
+>> Hasta ahora, esto es similar al bit clásico. Tiene dos estados, spin
+
+19
+00:01:26,780 --> 00:01:31,850
+arriba y spin abajo, que son los "uno" y "cero" clásicos. Pero lo curioso acerca del los objetos
+
+20
+00:01:31,850 --> 00:01:36,630
+cuánticos es que pueden estar simultáneamente en dos estados. Cuando se mide el spin, éste
+
+21
+00:01:36,630 --> 00:01:41,440
+estará o arriba o abajo. Pero antes de medirlo, el electrón puede existir en lo que
+
+22
+00:01:41,440 --> 00:01:46,580
+se llama superposición cuántica, donde estos coeficientes indican la probabilidad relativa
+
+23
+00:01:46,580 --> 00:01:49,500
+de encontrar el electrón en un estado o el otro.
+
+24
+00:01:49,500 --> 00:01:53,869
+Es difícil imaginar cómo esto le da una gran capacidad de cómputo a los computadores
+
+25
+00:01:53,869 --> 00:01:58,090
+cuánticos sin considerar dos bits cuánticos interactuando.
+
+26
+00:01:58,090 --> 00:01:59,810
+>> Hola. >> Hola.
+
+27
+00:01:59,810 --> 00:02:04,280
+Ahora ya hay cuatro estados posibles de estos dos electrones
+
+28
+00:02:04,280 --> 00:02:09,030
+>> Se puede pensar que es igual que dos bits de un computador clásico.
+
+29
+00:02:09,030 --> 00:02:15,640
+Si tiene dos bits, se puede escribir cero, cero; cero, uno;  uno, cero; uno, uno.
+
+30
+00:02:15,640 --> 00:02:18,050
+Hay cuatro números.
+
+31
+00:02:18,050 --> 00:02:22,920
+Pero son aún solo dos bits de información. Todo lo que debo decir para determinar cúal
+
+32
+00:02:22,920 --> 00:02:28,640
+de los cuatro números está codificado, es el valor del primer bit
+
+33
+00:02:28,640 --> 00:02:37,620
+y el valor del segundo bit. En cambio, acá la mecánica cuántica permite hacer un superposición de
+
+34
+00:02:37,620 --> 00:02:44,690
+cada uno de los cuatro estados. Por consiguiente, puedo escribir un estado cuántico, que es
+
+35
+00:02:44,690 --> 00:02:50,770
+perfectamente legítimo, que es el producto de un coeficiente por esto, más otro coeficiente por esto
+
+36
+00:02:50,770 --> 00:02:54,069
+más otro coeficiente por esto, más otro coeficiente por esto.
+
+37
+00:02:54,069 --> 00:03:01,620
+Entonces para determinar el estado de este sistema de dos spins, necesito entregar cuatro números - cuatro coeficientes.
+
+38
+00:03:01,620 --> 00:03:08,069
+Mientras en el ejemplo clásico de dos bits, sólo debo entregar dos bits.
+
+39
+00:03:08,069 --> 00:03:13,989
+Entonces es así como se entiende por qué dos Qubits realmente contienen cuatro bits de información.
+
+40
+00:03:13,989 --> 00:03:18,230
+Necesito entregar cuatro números para definir el estado del sistema, mientras acá solo
+
+41
+00:03:18,230 --> 00:03:19,090
+necesito dos.
+
+42
+00:03:19,090 --> 00:03:24,550
+Si consideramos tres spins, tendríamos ocho estados diferentes y debería entregar
+
+43
+00:03:24,550 --> 00:03:30,010
+ocho números diferentes para definir el estado de estos tres spins, mientras en la visión clásica
+
+44
+00:03:30,010 --> 00:03:34,519
+son solamente tres bits. Si continuamos, lo que se encuentra es que
+
+45
+00:03:34,519 --> 00:03:42,129
+la cantidad de información clásica contenida en N Qubits es dos elevado a la
+
+46
+00:03:42,129 --> 00:03:45,000
+potencia N bits clásicos.
+
+47
+00:03:45,000 --> 00:03:53,550
+Y, por supuesto, la ley de exponenciales indica que una vez se tenga, por ejemplo,
+
+48
+00:03:53,550 --> 00:04:01,459
+300 de estos Qubits, en lo que se llama un estado completamente entrelazado, debería ser posible crear
+
+49
+00:04:01,459 --> 00:04:06,099
+estados extraños en donde hay una superposición de todos los 300 spins
+
+50
+00:04:06,099 --> 00:04:12,629
+uno tras otro, y entonces se tiene 2 elevado a la 300 bits clásicos,
+
+51
+00:04:12,629 --> 00:04:17,309
+lo cual corresponde a la cantidad de partículas en el universo.
+
+52
+00:04:17,309 --> 00:04:22,570
+>> Pero hay un problema. A pesar de que los Qubits pueden existir en cualquier combinación de estados,
+
+53
+00:04:22,570 --> 00:04:26,880
+cuando son medidos, deben mostrarse en uno de sus estados básicos. Y se pierde toda la información
+
+54
+00:04:26,880 --> 00:04:29,620
+acerca del estado antes de la medición.
+
+55
+00:04:29,620 --> 00:04:36,370
+>>  Entonces, en general no se quiere que el resultado final de un cálculo cuántico
+
+56
+00:04:36,370 --> 00:04:41,400
+sea un estado superpuesto muy complicado, porque la superposición
+
+57
+00:04:41,400 --> 00:04:44,979
+no se puede medir. Solo se puede medir uno de los estados básicos.
+
+58
+00:04:44,979 --> 00:04:47,759
+>> Como abajo, abajo, arriba, arriba.
+
+59
+00:04:47,759 --> 00:04:56,500
+>> Lo que se quiere, es diseñar las operaciones lógicas que se necesiten para lograr
+
+60
+00:04:56,500 --> 00:05:02,210
+el resultado computacional de una manera que se pueda medir
+
+61
+00:05:02,210 --> 00:05:05,590
+el resultado final,  simplemente un estado único.
+
+62
+00:05:05,590 --> 00:05:06,789
+>> Y no es algo fácil.
+
+63
+00:05:06,789 --> 00:05:11,900
+>> No es fácil. Y es esencialmente - siendo un poco flexibles - de alguna manera
+
+64
+00:05:11,900 --> 00:05:18,180
+la razón por la cual los computadores cuánticos no son un remplazo de
+
+65
+00:05:18,180 --> 00:05:18,910
+los computadores clásicos.
+
+66
+00:05:18,910 --> 00:05:19,750
+>> No lo son.
+
+67
+00:05:19,750 --> 00:05:26,340
+>> No, no lo son. No son siempre más rápidos. Son sólo más rapidos para tipos especiales
+
+68
+00:05:26,340 --> 00:05:32,740
+de cálculos donde se puede usar el hecho de que se tienen todas estas superposiciones cuánticas
+
+69
+00:05:32,740 --> 00:05:39,470
+disponibles simultáneamente, para hacer alguna forma de cómputos paralelos.
+
+70
+00:05:39,470 --> 00:05:46,050
+Si simplemente se quiere ver un video de alta definición o navegar en internet o escribir algún documento
+
+71
+00:05:46,050 --> 00:05:54,389
+en Word, no van a mostrar ninguna mejora particular, si tiene que usar
+
+72
+00:05:54,389 --> 00:05:59,449
+un algoritmo clásico para obtener el resultado. Entonces, no se debe pensar que el computador cuántico es algo
+
+73
+00:05:59,449 --> 00:06:05,120
+en que cada operación es más rápida. De hecho cada operación probablemente sea más lenta
+
+74
+00:06:05,120 --> 00:06:11,180
+que en el computador sobre el escritorio. Pero es un computador donde el número de operaciones
+
+75
+00:06:11,180 --> 00:06:18,310
+requeridas para llegar el resultado es exponencialmente menor. La mejora no es en velocidad
+
+76
+00:06:18,310 --> 00:06:23,550
+de una operación individual. Es en el número total de operaciones requeridas para llegar
+
+77
+00:06:23,550 --> 00:06:27,150
+al resultado. Pero sólamente es el caso en tipos particulares de
+
+78
+00:06:27,150 --> 00:06:34,039
+cálculos - algoritmos particulares. No es universal, y por esta razón, no es un
+
+79
+00:06:34,039 --> 00:06:46,230
+remplazo de un computador clásico.
+

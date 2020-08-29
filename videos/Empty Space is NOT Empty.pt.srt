@@ -1,0 +1,288 @@
+1
+00:00:01,240 --> 00:00:03,680
+Uma das coisas mais espantosas acerca do átomo
+
+2
+00:00:03,680 --> 00:00:06,320
+É que é constituído em grande parte por espaço vazio.
+
+3
+00:00:06,320 --> 00:00:09,160
+Se um átomo fosse tão largo quanto a extensão dos seus braços,
+
+4
+00:00:09,160 --> 00:00:14,280
+Então todos os elétrons estariam chocando-se dentro do volume fechado por entre as suas pontas dos dedos
+
+5
+00:00:14,280 --> 00:00:17,180
+Entretanto o núcleo estaria assente no centro
+
+6
+00:00:17,180 --> 00:00:23,140
+e o seu diâmetro seria menor do que a largura de um único cabelo humano ...
+
+7
+00:00:23,140 --> 00:00:25,900
+Então, todos os átomos que o compõem a si e a mim
+
+8
+00:00:25,900 --> 00:00:29,260
+e a todas as coisas aparentemente sólidas no universo
+
+9
+00:00:29,260 --> 00:00:31,260
+São principalmente espaço vazio.
+
+10
+00:00:31,320 --> 00:00:32,820
+Agora, isso é incrível.
+
+11
+00:00:32,820 --> 00:00:39,420
+Mas o que é ainda mais intrigante é que o espaço vazio não é propriamente vazio ..
+
+12
+00:00:39,420 --> 00:00:41,480
+Eu sei porque já vi isso.
+
+13
+00:00:41,480 --> 00:00:44,260
+Esta é uma simulação do Prof. Derek Leinweber na Universidade de Adelaide.
+
+14
+00:00:46,420 --> 00:00:51,100
+E foi feita utilizando um supercomputador para efectuar os cálculos de Cromo-Dinâmica Quântica
+
+15
+00:00:51,860 --> 00:00:55,860
+Agora que a teoria das partículas fundamentais é chamada de 'quarks',
+
+16
+00:00:55,860 --> 00:00:58,620
+os blocos de construção de prótons e nêutrons
+
+17
+00:00:58,620 --> 00:01:01,980
+e como eles interagem uns com os outros através de 'glúons'
+
+18
+00:01:01,980 --> 00:01:07,760
+O que você está observando aqui é a densidade de energia das flutuações do campo gluon.
+
+19
+00:01:07,760 --> 00:01:11,720
+Donde as pequenas manchas vermelhas saem, a densidade de energia é muito alta ..
+
+20
+00:01:11,720 --> 00:01:13,520
+E desvanece-se através das cores.
+
+21
+00:01:13,520 --> 00:01:18,120
+Assim, na energia mais baixa, as flutuações de campo não são renderizadas nesta animação
+
+22
+00:01:18,120 --> 00:01:19,920
+Para que possamos realmente ver nele.
+
+23
+00:01:19,940 --> 00:01:24,140
+e o que vemos é uma sopa borbulhante de flutuações do campo quântico
+
+24
+00:01:24,140 --> 00:01:26,740
+que vêm e vão incrivelmente rápido.
+
+25
+00:01:26,740 --> 00:01:32,920
+A taxa de frames desta simulação é de um milhão de bilhões de bilhões de frames por segundo.
+
+26
+00:01:32,920 --> 00:01:35,460
+Agora que é verdadeiramente alta velocidade ...
+
+27
+00:01:35,580 --> 00:01:39,200
+As dimensões desta caixa são absolutamente pequenas.
+
+28
+00:01:39,200 --> 00:01:42,660
+São milionésimos de bilionésimos de metros.
+
+29
+00:01:42,660 --> 00:01:45,780
+Aproximadamente espaço suficiente para colar dois prótons.
+
+30
+00:01:45,780 --> 00:01:47,580
+Mas não há prótons aqui ...
+
+31
+00:01:47,580 --> 00:01:50,880
+Esta é uma simulação do vácuo em si,
+
+32
+00:01:50,880 --> 00:01:53,860
+o que normalmente consideramos como "espaço vazio".
+
+33
+00:01:53,860 --> 00:01:59,160
+o espaço vazio está realmente cheio de flutuações deste campo quark-e-gluon.
+
+34
+00:01:59,160 --> 00:02:07,760
+E, em média, é possível aniquilar um quark do espaço vazio, porque não está vazio ...!
+
+35
+00:02:07,880 --> 00:02:10,460
+Isso pode parecer uma ideia muito ridícula de que ...
+
+36
+00:02:10,460 --> 00:02:15,020
+Você é suposto ter o espaço vazio, e ainda assim você pode ir e começar livrado do material dele ...
+
+37
+00:02:15,580 --> 00:02:17,480
+Está certo. Portanto, não está vazio!
+
+38
+00:02:17,480 --> 00:02:23,440
+Agora parece contra-intuitivo que o vácuo em seu estado de energia mais baixo deva conter todo esse material.
+
+39
+00:02:23,440 --> 00:02:26,340
+Mas, na verdade, para limpar as flutuações
+
+40
+00:02:26,340 --> 00:02:31,060
+E criar um vácuo verdadeiramente vazio exigiria muita energia.
+
+41
+00:02:31,060 --> 00:02:34,740
+O vácuo vazio realmente custa uma enorme quantidade de energia para o criar,
+
+42
+00:02:34,740 --> 00:02:36,720
+E mesmo se você fosse capaz de criá-lo
+
+43
+00:02:36,720 --> 00:02:40,620
+iria descobrir que ... é realmente instável ... e que
+
+44
+00:02:40,620 --> 00:02:44,900
+qualquer tipo de perturbação iria empurrar esse vácuo vazio
+
+45
+00:02:44,900 --> 00:02:49,720
+Em algo onde o vácuo é realmente cheio de flutuações quânticas de campo
+
+46
+00:02:49,840 --> 00:02:53,060
+Bem, isto pode não ser tão estranho como aparenta ser à primeira vista ...
+
+47
+00:02:53,060 --> 00:02:55,420
+Quer dizer, considerando que um íman permanente,
+
+48
+00:02:55,420 --> 00:03:00,200
+tem um campo magnético de baixa energia ao seu redor, à temperatura ambiente.
+
+49
+00:03:00,200 --> 00:03:03,020
+Isso ocorre porque os pequenos momentos magnéticos individuais
+
+50
+00:03:03,020 --> 00:03:05,240
+de todos os átomos dentro estão alinhados.
+
+51
+00:03:05,240 --> 00:03:06,780
+Mas se você fosse aquecê-lo
+
+52
+00:03:06,780 --> 00:03:09,480
+Você distribuiria energia térmica para todas essas partículas.
+
+53
+00:03:09,480 --> 00:03:12,100
+E em um certo ponto, chamado de Cúria Temperatura,
+
+54
+00:03:12,100 --> 00:03:14,360
+eles estariam tão aleatoriamente alinhados
+
+55
+00:03:14,360 --> 00:03:17,960
+que não existiria mais nenhum campo magnético global.
+
+56
+00:03:17,960 --> 00:03:22,760
+Então aí, ele realmente precisaria de energia para se livrar do campo magnético permanente.
+
+57
+00:03:22,760 --> 00:03:25,600
+Humm, isso é exactamente como o vácuo quântico.
+
+58
+00:03:25,600 --> 00:03:29,360
+E entender como funcionam as flutuações quânticas do vácuo
+
+59
+00:03:29,360 --> 00:03:32,900
+dá-nos uma noção de o que as partículas fundamentais fazem,
+
+60
+00:03:32,900 --> 00:03:35,980
+Como "onde você está mais propenso a encontrar um quark?"
+
+61
+00:03:36,240 --> 00:03:40,860
+E descobriu-se que o quark gosta de se assentar em cima desses pedaços.
+
+62
+00:03:40,860 --> 00:03:45,300
+Agora, esses caroços entram e saem da existência rapidamente e assim ...
+
+63
+00:03:45,300 --> 00:03:50,040
+Nós gostamos de pensar nos quarks como que pulando de um caroço para o caroço seguinte, como parece,
+
+64
+00:03:50,040 --> 00:03:51,300
+E depois para outro caroço.
+
+65
+00:03:51,700 --> 00:03:58,420
+Eu gosto de pensar nisso como um caminhante tentando atravessar um córrego que está correndo ao redor ...
+
+66
+00:03:58,420 --> 00:04:02,380
+De vez em quando, uma pedra aparece porque a água rodopia em torno dela.
+
+67
+00:04:02,380 --> 00:04:05,100
+Então você coloca seu pé lá ... Você está procurando o próximo ponto ...
+
+68
+00:04:05,100 --> 00:04:07,720
+Se você caminhar rápido o suficiente,  talvez você não molhe os seus pés...
+
+69
+00:04:07,900 --> 00:04:13,680
+então eu acho que os quarks são muito de fazer ... bem, sabemos  que os quarks são muito de fazer a mesma coisa.
+
+70
+00:04:13,680 --> 00:04:20,040
+Então, enquanto é verdade que você e eu e todos os outros átomos no universo somos em grande parte espaço vazio,
+
+71
+00:04:20,040 --> 00:04:24,260
+também é verdade que o espaço vazio não é verdadeiramente vazio ...
+
+72
+00:04:24,260 --> 00:04:29,460
+E na verdade são essas as flutuações do vácuo que são essenciais para a nossa existência.
+

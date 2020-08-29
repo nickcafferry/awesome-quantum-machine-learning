@@ -1,0 +1,260 @@
+1
+00:00:00,532 --> 00:00:02,535
+Secondo la Meccanica Quantistica
+
+2
+00:00:02,540 --> 00:00:06,680
+tutte le particelle dell’universo sono descritte da una “funzione d’onda”
+
+3
+00:00:06,860 --> 00:00:11,300
+e le funzioni d’onda quantistiche vengono descritte dall’equazione di Schrödinger
+
+4
+00:00:12,840 --> 00:00:18,310
+Sebbene il comportamento di tutte le particelle subatomiche sia per natura probabilistico,
+
+5
+00:00:18,310 --> 00:00:22,650
+l’equazione di Schrödinger di per sé non contiene nessuna probabilità
+
+6
+00:00:23,773 --> 00:00:29,402
+La probabilità di ogni possibile osservazione è determinata dalla funzione d’onda
+
+7
+00:00:29,402 --> 00:00:31,740
+ma prima dell’osservazione,
+
+8
+00:00:31,740 --> 00:00:36,751
+la funzione d’onda cambia e si evolve in una maniera completamente deterministica
+
+9
+00:00:37,768 --> 00:00:41,328
+Questo modo deterministico, in cui una funzione d’onda si comporta
+
+10
+00:00:41,328 --> 00:00:46,288
+senza alcun osservatore presente, è ciò che l’equazione di Schrödinger descrive.
+
+11
+00:00:47,940 --> 00:00:52,900
+Le particelle cariche elettricamente, l’una sull’altra, esercitano forze.
+
+12
+00:00:54,960 --> 00:00:58,960
+Lo si può meglio visualizzare, dicendo che in differenti punti nello spazio
+
+13
+00:00:58,963 --> 00:01:03,085
+una particella carica possiede una diversa quantità di energia potenziale.
+
+14
+00:01:08,313 --> 00:01:14,628
+L’altezza di questo grafico, in ogni punto spaziale, è rappresentata dalla variabile “V”
+
+15
+00:01:22,237 --> 00:01:25,503
+L’altezza non rappresenta una dimensione spaziale
+
+16
+00:01:25,503 --> 00:01:30,896
+bensì il valore dell’energia potenziale delle nostre particelle cariche in ogni punto dello spazio.
+
+17
+00:01:36,306 --> 00:01:39,596
+“M” rappresenta la massa della particella
+
+18
+00:01:47,447 --> 00:01:52,167
+“H barrato” rappresenta la costante di Planck divisa per 2 Pi Greco.
+
+19
+00:01:59,548 --> 00:02:05,505
+Questa variabile, invece, rappresenta il valore della funzione d’onda in ogni punto spaziale e temporale.
+
+20
+00:02:11,577 --> 00:02:16,344
+Questo grafico mostra una funzione d’onda lungo solamente una delle tre dimensioni spaziali.
+
+21
+00:02:22,645 --> 00:02:27,581
+In ogni punto dello spazio e del tempo, la funzione d’onda è un numero complesso
+
+22
+00:02:27,581 --> 00:02:31,041
+con una componente reale, e una immaginaria
+
+23
+00:02:46,258 --> 00:02:47,859
+Questa espressione indica
+
+24
+00:02:47,859 --> 00:02:53,187
+di quanto la funzione d’onda cambia, se x aumenta di una quantità molto piccola
+
+25
+00:03:01,846 --> 00:03:07,337
+Questo cambiamento è un numero complesso, che può venire rappresentato con delle frecce, come ora viene mostrato.
+
+26
+00:03:18,739 --> 00:03:23,758
+Senza cambiare la coordinata x o la direzione di queste frecce,
+
+27
+00:03:23,758 --> 00:03:27,811
+mostriamo ognuna di esse partendo lungo l’asse x
+
+28
+00:03:33,961 --> 00:03:38,877
+Il valore con cui queste frecce cambiano, mano a mano che x aumenta di una quantità molto piccola,
+
+29
+00:03:38,877 --> 00:03:41,724
+è rappresentato da quest’altra espressione.
+
+30
+00:03:55,436 --> 00:03:58,878
+In ogni punto, la somma di questi tre valori
+
+31
+00:03:58,878 --> 00:04:02,657
+è un numero complesso rappresentato dal seguente simbolo
+
+32
+00:04:20,084 --> 00:04:24,565
+Ora abbiamo trattato di tutti i simboli della parte sinistra dell’equazione
+
+33
+00:04:30,215 --> 00:04:33,256
+Concentriamoci ora sulla parte destra.
+
+34
+00:04:41,215 --> 00:04:46,585
+Come nell’esempio precedente, questo grafico mostra il valore di una funzione d’onda
+
+35
+00:04:46,585 --> 00:04:49,974
+lungo soltanto una delle tre dimensioni spaziali
+
+36
+00:04:52,563 --> 00:04:58,155
+Queste frecce indicano di quanto la funzione d’onda cambierà in ogni punto
+
+37
+00:04:58,155 --> 00:05:01,724
+se il tempo aumenta di un valore molto piccolo
+
+38
+00:05:13,120 --> 00:05:17,901
+Senza cambiare la coordinata x o la direzione di queste frecce,
+
+39
+00:05:17,901 --> 00:05:22,500
+mostriamo ognuna di tali frecce partendo lungo l’asse x
+
+40
+00:05:27,428 --> 00:05:32,250
+Se moltiplichiamo queste frecce per “H barrato”, la loro lunghezza cambia
+
+41
+00:05:42,086 --> 00:05:46,365
+Se poi moltiplichiamo queste frecce per il numero immaginario “i”
+
+42
+00:05:46,365 --> 00:05:49,894
+tutte queste saranno ruotate di 90 gradi
+
+43
+00:05:58,621 --> 00:06:02,154
+Ora ognuna di queste frecce rappresenta un numero complesso
+
+44
+00:06:02,154 --> 00:06:05,844
+che è uguale alla parte destra dell’equazione
+
+45
+00:06:08,800 --> 00:06:13,810
+Il lato destro dell’equazione di Schrödinger deve sempre rimanere uguale al lato sinistro
+
+46
+00:06:22,792 --> 00:06:26,242
+Se una particella si muove in una sola dimensione,
+
+47
+00:06:26,242 --> 00:06:30,294
+allora l’equazione di Schrödinger può venire semplificata nella seguente.
+
+48
+00:06:44,607 --> 00:06:50,136
+Se abbiamo una funzione con una lunghezza d’onda più piccola, questo parametro aumenta
+
+49
+00:06:56,704 --> 00:07:02,798
+Affinché entrambi i lati siano uguali, anche questo altro parametro deve aumentare.
+
+50
+00:07:08,840 --> 00:07:13,951
+Questo altro parametro rappresenta quanto velocemente la funzione d’onda sta ruotando
+
+51
+00:07:20,827 --> 00:07:25,347
+Perciò, se abbiamo una funzione d’onda con una lunghezza d’onda più piccola,
+
+52
+00:07:25,347 --> 00:07:29,064
+la funzione d’onda deve ruotare con una frequenza più alta
+
+53
+00:07:32,961 --> 00:07:36,770
+Più alta è la frequenza, più alta sarà l’energia della particella.
+
+54
+00:07:38,770 --> 00:07:44,790
+Se si conosce l’energia della particella, ed è rappresentata dalla variabile “E”,
+
+55
+00:07:44,790 --> 00:07:49,319
+allora il lato destro dell’equazione di Schrödinger è uguale al seguente.
+
+56
+00:07:55,638 --> 00:08:00,146
+Quindi, se l’energia di una particella è conosciuta con certezza,
+
+57
+00:08:00,146 --> 00:08:03,415
+l’equazione può essere semplificata nel modo mostrato.
+
+58
+00:08:18,909 --> 00:08:23,598
+Se si conosce anche l’energia potenziale in ogni punto dello spazio,
+
+59
+00:08:23,598 --> 00:08:26,317
+rappresentata dalla variabile “V”
+
+60
+00:08:26,317 --> 00:08:31,017
+si possono allora calcolare tutte le possibili funzioni d’onda della particella.
+
+61
+00:08:33,560 --> 00:08:37,100
+Molte altre informazioni sull’argomento sono disponibili
+
+62
+00:08:37,100 --> 00:08:40,477
+nel video “Visualizzazione Della Funzione D’Onda Quantistica”.
+
+63
+00:08:40,477 --> 00:08:45,193
+Inoltre, dettagli, su come una funzione d’onda determina le probabilità
+
+64
+00:08:45,193 --> 00:08:50,896
+di ogni possibile osservazione, sono disponibili nel video “Operatori Quantistici”.
+
+65
+00:08:52,120 --> 00:08:57,100
+Iscrivetevi e attivate le notifiche, così da rimanere aggiornati quando nuovi video verranno pubblicati.
+

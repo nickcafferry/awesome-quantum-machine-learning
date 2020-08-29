@@ -1,0 +1,288 @@
+1
+00:00:01,240 --> 00:00:03,680
+Una de las cosas mas increíbles de los átomos
+
+2
+00:00:03,680 --> 00:00:06,320
+es que son principalmente espacio vacío.
+
+3
+00:00:06,320 --> 00:00:09,160
+si un átomo fuera tan ancho como el lapso de nuestros brazos,
+
+4
+00:00:09,160 --> 00:00:14,280
+entonces lo electrones estarían todos zumbando dentro del volumen encasillado por nuestros dedos,
+
+5
+00:00:14,280 --> 00:00:17,180
+mientras tanto el núcleo estaría en el centro.
+
+6
+00:00:17,180 --> 00:00:23,140
+y su diámetro fuera mas pequeño que el grueso de una hebra de cabello humano...
+
+7
+00:00:23,140 --> 00:00:25,900
+Así que todos los átomos que nos componen a ti y a mi
+
+8
+00:00:25,900 --> 00:00:29,260
+y así mismo todas las cosas físicas en el universo
+
+9
+00:00:29,260 --> 00:00:31,260
+están mayormente vacías.
+
+10
+00:00:31,320 --> 00:00:32,820
+Ahora, esto es increíble.
+
+11
+00:00:32,820 --> 00:00:39,420
+Pero lo que es inclusive más alucinante es que ese espacio vacío no es verdaderamente vacío.
+
+12
+00:00:39,420 --> 00:00:41,480
+Lo se por que lo he visto.
+
+13
+00:00:41,480 --> 00:00:44,260
+Esto es una simulación del Prof. Derek Leinweber en la Universidad de Adelaide.
+
+14
+00:00:46,420 --> 00:00:51,100
+Fue hecha con una super-computadora para poder resolver los cálculos de las Dinámicas Cromo-Cuánticas.
+
+15
+00:00:51,860 --> 00:00:55,860
+Esa es la teoría fundamental de las partículas llamadas "quarks",
+
+16
+00:00:55,860 --> 00:00:58,620
+los bloques de construcción de los protones y neutrones,
+
+17
+00:00:58,620 --> 00:01:01,980
+y como interactúan con ellos mismo a través de "gluons".
+
+18
+00:01:01,980 --> 00:01:07,760
+Lo que estamos viendo aquí es la densidad energética de las fluctuaciones del campo de gluons.
+
+19
+00:01:07,760 --> 00:01:11,720
+Donde esas manchas rojas aparecen, es donde la densidad energética es muy alta.
+
+20
+00:01:11,720 --> 00:01:13,520
+Y se desvanecen a través de los colores.
+
+21
+00:01:13,520 --> 00:01:18,120
+Asé, que en las energías más bajas, las fluctuaciones del campo no son representadas en esta animación.
+
+22
+00:01:18,120 --> 00:01:19,920
+así que podamos ver dentro de el.
+
+23
+00:01:19,940 --> 00:01:24,140
+Y lo que vemos es una sopa burbujeante de fluctuaciones en el campo cuántico.
+
+24
+00:01:24,140 --> 00:01:26,740
+y vienen y van increíblemente rápidos.
+
+25
+00:01:26,740 --> 00:01:32,920
+Los cuadros por segundo de esta simulación son un millón billón billones cuadros por segundo.
+
+26
+00:01:32,920 --> 00:01:35,460
+Ahora esos es verdaderamente alta velocidad...
+
+27
+00:01:35,580 --> 00:01:39,200
+Las dimensiones en esta caja son diminutas.
+
+28
+00:01:39,200 --> 00:01:42,660
+Son una millonésima de una billonésima de un metro.
+
+29
+00:01:42,660 --> 00:01:45,780
+suficiente espacio para meter dos protones.
+
+30
+00:01:45,780 --> 00:01:47,580
+Pero aquí no hay protones...
+
+31
+00:01:47,580 --> 00:01:50,880
+Esta simulación es del vacío solamente.
+
+32
+00:01:50,880 --> 00:01:53,860
+lo que normalmente pensaríamos como "espacio vacío".
+
+33
+00:01:53,860 --> 00:01:59,160
+El espacio vacío está lleno de fluctuaciones en el campo de quarks y gluons.
+
+34
+00:01:59,160 --> 00:02:07,760
+Y, en promedio, es posible aniquilar un quark del espacio vacío, ¡porque no esta vacío!
+
+35
+00:02:07,880 --> 00:02:10,460
+Eso suena como la idea más ridícula que
+
+36
+00:02:10,460 --> 00:02:15,020
+que queremos ver un espacio vacío, y sin embargo podemos ir y deshacernos de cosas de el...
+
+37
+00:02:15,580 --> 00:02:17,480
+Así es. No está vacío!
+
+38
+00:02:17,480 --> 00:02:23,440
+Ahora suena contraintuitivo que este espacio en su estado de energía más bajo pueda contener todo esto.
+
+39
+00:02:23,440 --> 00:02:26,340
+Pero, en realidad, para limpiar todas las fluctuaciones
+
+40
+00:02:26,340 --> 00:02:31,060
+y crear un espacio verdaderamente vacío, requiriera de mucha energía.
+
+41
+00:02:31,060 --> 00:02:34,740
+El espacio vacío en realidad cuesta una enrome cantidad de energía para crear,
+
+42
+00:02:34,740 --> 00:02:36,720
+y si fuéramos capaz de crearlo,
+
+43
+00:02:36,720 --> 00:02:40,620
+descubrieras que, es actualmente inestable, que
+
+44
+00:02:40,620 --> 00:02:44,900
+cualquier tipo de perturbación empujaría a ese espacio vacío
+
+45
+00:02:44,900 --> 00:02:49,720
+a algo en lo cual estaría lleno de fluctuaciones del campo cuántico.
+
+46
+00:02:49,840 --> 00:02:53,060
+Bueno, esto no puede ser tan extraño como aparenta inicialmente.
+
+47
+00:02:53,060 --> 00:02:55,420
+Pensemos, en un magneto permanente.
+
+48
+00:02:55,420 --> 00:03:00,200
+Tiene un campo magéntico alrededor de el a temperatura ambiente.
+
+49
+00:03:00,200 --> 00:03:03,020
+Eso es por que los momentos magnéticos individuales
+
+50
+00:03:03,020 --> 00:03:05,240
+de todos los átomos dentro esta alineados.
+
+51
+00:03:05,240 --> 00:03:06,780
+Pero si lo calentaríamos
+
+52
+00:03:06,780 --> 00:03:09,480
+le daríamos energía térmica a todas esas particulas.
+
+53
+00:03:09,480 --> 00:03:12,100
+Y a un punto, llamado la Temperatura Curie,
+
+54
+00:03:12,100 --> 00:03:14,360
+estarían alineados tan aleatoriamente
+
+55
+00:03:14,360 --> 00:03:17,960
+que no hubiera un campo magnético general.
+
+56
+00:03:17,960 --> 00:03:22,760
+Así que en realidad toma energía para deshacernos del campo magnético permanente.
+
+57
+00:03:22,760 --> 00:03:25,600
+Hmm, esto es justo como el vacío cuántico.
+
+58
+00:03:25,600 --> 00:03:29,360
+Y para entender como funcionan las fluctuaciones en el vacío cuántico.
+
+59
+00:03:29,360 --> 00:03:32,900
+Nos dan un sentido de lo que hacen las partículas fundamentales,
+
+60
+00:03:32,900 --> 00:03:35,980
+y ¿donde encontraríamos un quark?
+
+61
+00:03:36,240 --> 00:03:40,860
+Y resulta ser que los quarks les gusta sentarse encima de esos bultos.
+
+62
+00:03:40,860 --> 00:03:45,300
+Ahora estos bultos entran y salen de la existencia relativamente rápido y así
+
+63
+00:03:45,300 --> 00:03:50,040
+podemos pensar que los quarks están saltando de un bulto a otro, como aparece,
+
+64
+00:03:50,040 --> 00:03:51,300
+y de ahí a otro.
+
+65
+00:03:51,700 --> 00:03:58,420
+Me gusta interpretarlo como un caminante tratando de cruzar un arrollo.
+
+66
+00:03:58,420 --> 00:04:02,380
+Cada tanto una piedra aparece por que el agua gira alrededor de ella.
+
+67
+00:04:02,380 --> 00:04:05,100
+Así que si pones el pie ahi... estarías buscando para la siguiente piedra...
+
+68
+00:04:05,100 --> 00:04:07,720
+Si vas suficientemente rápido, puede que no te mojes los pies.
+
+69
+00:04:07,900 --> 00:04:13,680
+Así que pienso, bueno sabemos que los quarks están haciendo la misma cosa.
+
+70
+00:04:13,680 --> 00:04:20,040
+Así que mientras es verdad de que tu y yo y todos los otros átomos del universo son principalmente espacio vacío.
+
+71
+00:04:20,040 --> 00:04:24,260
+también es verdad que espacio vacío no está verdaderamente vacío.
+
+72
+00:04:24,260 --> 00:04:29,460
+Y en realidad esas fluctuaciones del vacío que son esenciales para nuestra existencia.
+
