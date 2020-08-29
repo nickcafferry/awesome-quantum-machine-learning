@@ -25,9 +25,8 @@ jobs:
         export PATH="$PATH:/home/runner/.local/bin:/home/runner/you_get"
         you-get -o ./you_get/ --debug 'https://www.youtube.com/watch?v=g_IaVepNDT4'
  
-        you-get -o ./you_get/ --debug 'https://www.youtube.com/watch?v=KKr91v7yLcM'
         you-get -o ./you_get/ --debug 'https://www.youtube.com/watch?v=J3xLuZNKhlY'         
-        you-get -o ./you_get/ --debug 'https://www.youtube.com/watch?v=3k5IWlVdMbo'
+
         you-get -o ./you_get/ --debug 'https://www.youtube.com/watch?v=jvvkomcmyuo' 
         
         ls
