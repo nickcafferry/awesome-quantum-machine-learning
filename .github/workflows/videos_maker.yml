@@ -8,7 +8,7 @@ on:
 jobs:
   build_docs_and_deploy:
     runs-on: ubuntu-latest
-    name: download
+    name: video maker
 
     steps:
     - name: Checkout
@@ -25,7 +25,3 @@ jobs:
         export PATH="$PATH:/home/runner/.local/bin:/home/runner/you_get"
         you-get -o ./you_get/ --debug 'https://video.fosdem.org/2020/UA2.118/getting_started_with_quantum_software_development.mp4'
         
-    - uses: actions/upload-artifact@v2
-      with:
-        name: artifact
-        path: getting_started_with_quantum_software_development.mp4
