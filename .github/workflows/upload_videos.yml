@@ -1,0 +1,41 @@
+name: videos maker
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build_docs_and_deploy:
+    runs-on: ubuntu-latest
+    name: videos maker
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+
+    - name: Install You-get
+      run: |
+        cd ..
+        mkdir you_get
+        ls
+        echo '======================='
+        pip3 install you-get
+        export PATH="$PATH:/home/runner/.local/bin:/home/runner/you_get"
+        you-get -o ./you_get/ --debug 'http://mirroronet.pl/pub/mirrors/video.fosdem.org/2020/UA2.118/kotlin_automate_your_workflows.mp4'
+        cd you_get/
+        ls
+        
+        cd ../
+        cp -r you_get/. awesome-quantum-machine-learning/videos/
+        cd awesome-quantum-machine-learning/
+        git config --global user.email "ucecwme@ucl.ac.uk"
+        git config --global user.name "nickcafferry"
+        git init
+        cd videos/
+        git add -A
+        git status 
+        git commit -m "Add some videos"
+        ls
+        cd ../
+        git push origin master
