@@ -29,6 +29,8 @@ jobs:
         echo '------------------------------'
         cd you_get
         ls 
+        
+    - name: save videos
     - uses: actions/upload-artifact@v2
       with:
         path: getting_started_with_quantum_software_development.mp4
