@@ -23,12 +23,13 @@ jobs:
         pip3 install you-get
         export PATH="$PATH:/home/runner/.local/bin:/home/runner/you_get"
         you-get -o ./you_get/ --debug 'https://video.fosdem.org/2020/UA2.118/getting_started_with_quantum_software_development.mp4'
+        you-get -o ./you_get/ --debug 'http://mirroronet.pl/pub/mirrors/video.fosdem.org/2020/UA2.118/kotlin_automate_your_workflows.mp4'
         cd you_get/
         ls
         pwd
 
     - uses: actions/upload-artifact@v2
       with:
-        name: my-artifact
-        path: /home/runner/work/awesome-quantum-machine-learning/you_get/getting_started_with_quantum_software_development.mp4
+        name: quantum videos
+        path: /home/runner/work/awesome-quantum-machine-learning/you_get/
         
