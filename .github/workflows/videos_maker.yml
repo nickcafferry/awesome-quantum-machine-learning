@@ -1,0 +1,36 @@
+name: videos making
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build_docs_and_deploy:
+    runs-on: ubuntu-latest
+    name: download
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+    
+    - name: Install You-get
+      id: videos
+    - run: |
+        cd ..
+        mkdir you_get
+        ls
+        echo '======================='
+        pip3 install you-get
+        export PATH="$PATH:/home/runner/.local/bin:/home/runner/you_get"
+        you-get -o ./you_get/ --debug 'https://video.fosdem.org/2020/UA2.118/getting_started_with_quantum_software_development.mp4'
+        
+        ls
+        echo '------------------------------'
+        cd you_get
+        ls 
+        
+    - name: save videos
+    - uses: actions/upload-artifact@v2
+      with:
+        path: getting_started_with_quantum_software_development.mp4
