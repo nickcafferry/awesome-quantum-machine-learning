@@ -16,7 +16,7 @@ jobs:
     
     - name: Install You-get
       id: videos
-      run: |
+    - run: |
         cd ..
         mkdir you_get
         ls
@@ -29,17 +29,8 @@ jobs:
         echo '------------------------------'
         cd you_get
         ls 
-        echo '~~~~~~~~~~~~~~~~~~~~~~'
-        cd ../
+    - uses: actions/upload-artifact@v2
+      with:
+        path: getting_started_with_quantum_software_development.mp4
+      
 
-        cp -r you_get/. awesome-quantum-machine-learning/videos
-        cd awesome-quantum-machine-learning/
-        git config --global user.email "ucecwme@ucl.ac.uk"
-        git config --global user.name "nickcafferry"
-        git init
-        cd videos/
-        git add -A
-        git status 
-        git commit -m "Add some videos"
-        ls
-        git push origin master
