@@ -23,7 +23,7 @@ jobs:
         echo '======================='
         pip3 install you-get
         export PATH="$PATH:/home/runner/.local/bin:/home/runner/you_get"
-        you-get -o ./you_get/ -i 'https://www.twitch.tv/eulcs1'
+        you-get -o ./you_get/ -i 'https://www.youtube.com/user/LoLeventVoDs/videos'
         
         ls
         echo '------------------------------'
