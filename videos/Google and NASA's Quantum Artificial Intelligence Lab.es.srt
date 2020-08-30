@@ -1,0 +1,508 @@
+1
+00:00:00,000 --> 00:00:01,070
+ 
+
+2
+00:00:01,070 --> 00:00:04,070
+JASON: ¿Quién fue el que dijo que si piensas que entiendes
+
+3
+00:00:04,070 --> 00:00:09,190
+la física cuántica, no entiendes la física cuántica?
+
+4
+00:00:09,190 --> 00:00:10,680
+[MÚSICA]
+
+5
+00:00:10,680 --> 00:00:12,040
+ERIC: Conciencia, inteligencia--
+
+6
+00:00:12,040 --> 00:00:14,150
+JASON: Libre albedrío, determinación--
+
+7
+00:00:14,150 --> 00:00:16,430
+ERIC: Agujeros negros, proteger al planeta de asteroides--
+
+8
+00:00:16,430 --> 00:00:18,480
+MASOUD: El principio de la incertidumbre de Heisenberg--
+
+9
+00:00:18,480 --> 00:00:21,733
+ERIC: Átomos, trampas de iones, resonancia magnética nuclear,
+
+10
+00:00:21,733 --> 00:00:23,420
+superconductores, fotones--
+
+11
+00:00:23,420 --> 00:00:23,890
+HARTMUT: Inteligencia artificial--
+
+12
+00:00:23,890 --> 00:00:25,165
+el aprendizaje de las máquinas--
+
+13
+00:00:25,165 --> 00:00:27,800
+JASON: pasado y futuro, la física clásica,
+
+14
+00:00:27,800 --> 00:00:31,890
+viajes en el tiempo, la cosa entera.
+
+15
+00:00:31,890 --> 00:00:34,500
+Te puedo decir que va a hacer mucho calor como me pongo a hablar.
+
+16
+00:00:34,500 --> 00:00:36,820
+Así que dime si empiezo a verme muy brillante.
+
+17
+00:00:36,820 --> 00:00:41,000
+[MÚSICA SONANDO]
+
+18
+00:00:41,000 --> 00:00:43,520
+JASON: La física cuántica pone todo en cuestionamiento.
+
+19
+00:00:43,520 --> 00:00:45,890
+ERIC: Desafía toda intuición que tienes acerca del
+
+20
+00:00:45,890 --> 00:00:46,960
+mundo natural.
+
+21
+00:00:46,960 --> 00:00:50,290
+PETE: Quantum es un muy extraño régimen de la física.
+
+22
+00:00:50,290 --> 00:00:52,220
+JASON: puede existir cosas en este estado de superposición,
+
+23
+00:00:52,220 --> 00:00:54,710
+donde pueden tener el efecto fantasma sobre cada otro-- donde podían
+
+24
+00:00:54,710 --> 00:00:57,740
+ser esto y eso, al mismo tiempo.
+
+25
+00:00:57,740 --> 00:00:58,560
+VADIM: Entrelazamiento
+
+26
+00:00:58,560 --> 00:00:59,790
+ERIC: Entrelazamiento cuántico.
+
+27
+00:00:59,790 --> 00:01:01,650
+SUZANNE: Dos objetos, si son entrelazados de manera mecánica-cuántica
+
+28
+00:01:01,650 --> 00:01:05,650
+todavía están fuertemente relacionados entre sí, incluso
+
+29
+00:01:05,650 --> 00:01:08,100
+aunque pueden tener una gran distancia de separación.
+
+30
+00:01:08,100 --> 00:01:10,750
+HARTMUT: Hay una noción de un multi-verso.
+
+31
+00:01:10,750 --> 00:01:14,840
+Hay toda una familia de Hartmuts en diferentes estados.
+
+32
+00:01:14,840 --> 00:01:17,600
+Y ellos están teniendo diferentes experiencias y
+
+33
+00:01:17,600 --> 00:01:19,290
+diferentes trayectorias de vida.
+
+34
+00:01:19,290 --> 00:01:21,240
+MASOUD: El famoso es túnel cuántico.
+
+35
+00:01:21,240 --> 00:01:21,740
+ERIC: El efecto túnel.
+
+36
+00:01:21,740 --> 00:01:22,140
+PETE: Efecto túnel.
+
+37
+00:01:22,140 --> 00:01:22,540
+Tunneling.
+
+38
+00:01:22,540 --> 00:01:25,860
+GEORDIE: Tunneling es el deslizamiento entre universos.
+
+39
+00:01:25,860 --> 00:01:27,930
+ERIC: Durante mucho tiempo, la gente pensaba que esos efectos sólo
+
+40
+00:01:27,930 --> 00:01:30,090
+existían en el dominio microscópico.
+
+41
+00:01:30,090 --> 00:01:33,450
+HARTMUT: Al igual que los átomos, electrones, fotones.
+
+42
+00:01:33,450 --> 00:01:36,790
+ELEANOR: Pero en realidad, es la teoría de nuestro universo.
+
+43
+00:01:36,790 --> 00:01:39,610
+ERIC: Así que si quieres construir un ordenador cuántico,
+
+44
+00:01:39,610 --> 00:01:42,260
+quieres incorporar esos nuevos fenómenos a la información
+
+45
+00:01:42,260 --> 00:01:43,250
+que se procesa.
+
+46
+00:01:43,250 --> 00:01:45,010
+JASON: Tal vez la computación cuántica es uno de esos
+
+47
+00:01:45,010 --> 00:01:47,220
+instrumentos que va a permitirnos ver efectos cuánticos
+
+48
+00:01:47,220 --> 00:01:49,410
+en escala humana.
+
+49
+00:01:49,410 --> 00:01:51,750
+REPORTERO: Google y la NASA se han unido para compartir una de los
+
+50
+00:01:51,750 --> 00:01:54,040
+primeros ordenadores cuánticos comerciales del mundo.
+
+51
+00:01:54,040 --> 00:01:57,240
+Esta máquina, fabricada por la canadiense D-Wave, se instalará en un
+
+52
+00:01:57,240 --> 00:01:59,680
+centro de investigación de la NASA en California.
+
+53
+00:01:59,680 --> 00:02:22,250
+[MÚSICA SONANDO]
+
+54
+00:02:22,250 --> 00:02:25,310
+JEREMY: Este es el interior de uno de nuestros
+
+55
+00:02:25,310 --> 00:02:26,650
+refrigeradores de dilución.
+
+56
+00:02:26,650 --> 00:02:30,210
+Toda esta infraestructura es básicamente para operar el chip
+
+57
+00:02:30,210 --> 00:02:32,460
+a una temperatura que es dos órdenes de magnitud más fría
+
+58
+00:02:32,460 --> 00:02:33,710
+que el espacio interestelar.
+
+59
+00:02:33,710 --> 00:02:39,160
+ 
+
+60
+00:02:39,160 --> 00:02:41,890
+El procesador es un ordenador cuántico.
+
+61
+00:02:41,890 --> 00:02:46,900
+ 
+
+62
+00:02:46,900 --> 00:02:48,890
+REPORTERO: --pero utiliza cosas llamas Cubits.
+
+63
+00:02:48,890 --> 00:02:53,390
+Además de ser uno o cero, un Cubit también puede ser ambos
+
+64
+00:02:53,390 --> 00:02:56,850
+al mismo tiempo, así ocasionando un salto cuántico
+
+65
+00:02:56,850 --> 00:02:58,550
+en términos de poder.
+
+66
+00:02:58,550 --> 00:03:01,080
+ 
+
+67
+00:03:01,080 --> 00:03:05,290
+JASON: Aprovechando principios de la realidad que son, hasta
+
+68
+00:03:05,290 --> 00:03:10,550
+muy recientemente, completamente no-observable por nosotros es simplemente
+
+69
+00:03:10,550 --> 00:03:15,900
+fascinante de una manera que no puedo articular completamente.
+
+70
+00:03:15,900 --> 00:03:20,430
+GEORDIE; La aplicación obvia de la computación
+
+71
+00:03:20,430 --> 00:03:22,540
+cuántica es la optimización.
+
+72
+00:03:22,540 --> 00:03:24,130
+JEREMY: Los problemas de optimización son
+
+73
+00:03:24,130 --> 00:03:25,630
+problemas extremadamente difíciles.
+
+74
+00:03:25,630 --> 00:03:28,320
+HARTMUT: En realidad, todos los centros de servidores de Google juntos
+
+75
+00:03:28,320 --> 00:03:32,700
+no serían capaces de dar con la mejor solución para
+
+76
+00:03:32,700 --> 00:03:36,740
+estos problemas de optimización a medida que se hacen más grandes.
+
+77
+00:03:36,740 --> 00:03:38,870
+Entonces, qué es un problema de optimización?
+
+78
+00:03:38,870 --> 00:03:39,720
+Te voy a dar un ejemplo.
+
+79
+00:03:39,720 --> 00:03:42,380
+Quieres hacer un viaje a través de América del Sur y quieres
+
+80
+00:03:42,380 --> 00:03:44,090
+visitar varias ciudades.
+
+81
+00:03:44,090 --> 00:03:46,970
+Y entonces te preguntas, ¿cuál es el billete más barato que puedo conseguir para
+
+82
+00:03:46,970 --> 00:03:49,720
+visitar, digamos, 20 ciudades?
+
+83
+00:03:49,720 --> 00:03:51,420
+Y usted puede, por supuesto, diferentes rutas
+
+84
+00:03:51,420 --> 00:03:53,650
+y diferentes aereolineas.
+
+85
+00:03:53,650 --> 00:03:58,140
+Y imagino- enumero todas las diferentes opciones que tengo de
+
+86
+00:03:58,140 --> 00:04:00,420
+diferentes rutas para viajar a estas ciudades.
+
+87
+00:04:00,420 --> 00:04:03,080
+ERIC: En este momento, como civilización, generamos grandes
+
+88
+00:04:03,080 --> 00:04:04,070
+cantidades de datos.
+
+89
+00:04:04,070 --> 00:04:07,180
+Podría ser datos climáticos, datos genómicos.
+
+90
+00:04:07,180 --> 00:04:11,560
+Pero es muy difícil generar una visión útil,
+
+91
+00:04:11,560 --> 00:04:13,070
+a menudo, desde que esos datos.
+
+92
+00:04:13,070 --> 00:04:15,960
+HARTMUT: Si puedes resolver mejor los problemas de optimización,
+
+93
+00:04:15,960 --> 00:04:18,149
+tienes un recurso importante en tus manos.
+
+94
+00:04:18,149 --> 00:04:25,110
+ 
+
+95
+00:04:25,110 --> 00:04:27,760
+SERGIO: Creo que, al menos, nos enseña que no debemos
+
+96
+00:04:27,760 --> 00:04:31,900
+ser ingenuos sobre el mundo, que no hay que pensar en el
+
+97
+00:04:31,900 --> 00:04:35,210
+mundo como una máquina simple.
+
+98
+00:04:35,210 --> 00:04:41,570
+Nos obliga a considerar nociones más sofisticadas de cómo
+
+99
+00:04:41,570 --> 00:04:45,550
+la realidad que nos rodea está en realidad [? establecida. ?]
+
+100
+00:04:45,550 --> 00:04:48,280
+ELEANOR: No puedo preguntarle cuánto tiempo voy a vivir o
+
+101
+00:04:48,280 --> 00:04:50,258
+el significado de la vida.
+
+102
+00:04:50,258 --> 00:04:53,430
+En realidad, no sabemos cuáles son las mejores preguntas
+
+103
+00:04:53,430 --> 00:04:54,810
+para preguntar a esa computadora.
+
+104
+00:04:54,810 --> 00:04:57,640
+Eso es exactamente lo que estamos tratando de entender ahora.
+
+105
+00:04:57,640 --> 00:04:59,060
+PETE: Para mí, la pregunta más importante es:
+
+106
+00:04:59,060 --> 00:05:01,355
+¿estamos solos?
+
+107
+00:05:01,355 --> 00:05:04,050
+Y tengo la sensación de que los ordenadores cuánticos, a medida que
+
+108
+00:05:04,050 --> 00:05:08,490
+maduran, va a ayudarnos a responder esa pregunta.
+
+109
+00:05:08,490 --> 00:05:09,990
+HARTMUT: Esto es, por supuesto, una
+
+110
+00:05:09,990 --> 00:05:11,750
+investigación a largo plazo.
+
+111
+00:05:11,750 --> 00:05:16,490
+Y todavía hay enormes obstáculos y grandes preguntas.
+
+112
+00:05:16,490 --> 00:05:20,650
+Algunos de ellos se abordarán en D-Wave, algunos
+
+113
+00:05:20,650 --> 00:05:25,270
+se abordarán en la NASA, y algunos en Google.
+
+114
+00:05:25,270 --> 00:05:28,870
+ELEANOR: Yo no estaba segura de que sería capaz de experimentar con un
+
+115
+00:05:28,870 --> 00:05:31,000
+dispositivo computacional cuántico en mi vida.
+
+116
+00:05:31,000 --> 00:05:34,710
+Y ahora, estoy segura de que podré de hacerlo.
+
+117
+00:05:34,710 --> 00:05:38,770
+GEORDIE: Cuán increíble es que nosotros, con nuestra herencia
+
+118
+00:05:38,770 --> 00:05:42,390
+del mono, y cerebros de mono, y dedos de mono, hemos de alguna manera
+
+119
+00:05:42,390 --> 00:05:47,800
+desarrollado un cerebro que nos permite preguntar legítimas
+
+120
+00:05:47,800 --> 00:05:52,390
+preguntas sobre la naturaleza de la realidad física.
+
+121
+00:05:52,390 --> 00:05:55,040
+Eso es tan genial.
+
+122
+00:05:55,040 --> 00:05:58,240
+JASON: Es ese riesgo humano de salir a esa frontera
+
+123
+00:05:58,240 --> 00:06:02,280
+desconocida, ya sea de exploración cuántica o espacial.
+
+124
+00:06:02,280 --> 00:06:04,410
+ 
+
+125
+00:06:04,410 --> 00:06:08,410
+Lo hacemos porque debemos hacerlo.
+
+126
+00:06:08,410 --> 00:06:10,770
+Lo hacemos porque eso es lo que significa ser humano.
+
+127
+00:06:10,770 --> 00:06:28,608
+ 
+
