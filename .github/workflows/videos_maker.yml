@@ -25,8 +25,7 @@ jobs:
         export PATH="$PATH:/home/runner/.local/bin:/home/runner/you_get"
         you-get -o ./you_get/ --debug 'https://video.fosdem.org/2020/UA2.118/getting_started_with_quantum_software_development.mp4'
         
-    - name: save videos
-      id: video upload
     - uses: actions/upload-artifact@v2
       with:
+        name: artifact
         path: getting_started_with_quantum_software_development.mp4
