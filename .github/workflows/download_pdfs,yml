@@ -1,0 +1,50 @@
+name: Download some pdfs
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build_docs_and_deploy:
+    runs-on: ubuntu-latest
+    name: build up document and deploy
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+
+    - name: Clone pre repositories
+      run: |
+        ls
+        echo '------------------------------'
+        git config --global user.email "your email address"
+        git config --global user.name "your user name"
+        git init
+        mkdir pdfs
+        mkdir pdfs/qmla
+        cd ./pdfs/qmla
+        ls
+        echo '============================================'
+
+        wget -O Theory_Explanation.pdf --user-agent="Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16" https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/1401.2142.pdf
+        wget -O A_Good_Material_to_understand_the_basics.pdf --user-agent="Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16" https://arxiv.org/pdf/1409.3097.pdf
+        wget -O Quantum_Modeled_Clustering_Algorithms_for_Image_Segmentation.pdf --user-agent="Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16" https://pdfs.semanticscholar.org/6d77/54d33958b4a41d57ec99558eb28ae88f9884.pdf
+        wget -O Quantum_algorithms_for_supervised_and_unsupervised_machine_learning.pdf --user-agent="Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16" https://arxiv.org/pdf/1307.0411.pdf
+        wget -O Quantum_Modeled_Clustering_Algorithms_for_Image_Segmentation.pdf --user-agent="Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16" https://pdfs.semanticscholar.org/6d77/54d33958b4a41d57ec99558eb28ae88f9884.pdf
+        
+        wget -O Quantum_support_vector_machine_for_big_data_classification.pdf --user-agent="Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16" https://arxiv.org/pdf/1307.0471.pdf
+        wget -O Prediction_of_Solar_Irradiation_Using_Quantum_Support_Vector_Machine_Learning_Algorithm.pdf --user-agent="Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16" https://www.scirp.org/pdf/SGRE_2016120614011566.pdf
+        
+        git add Theory_Explanation.pdf
+        git add A_Good_Material_to_understand_the_basics.pdf
+        git add Quantum_Modeled_Clustering_Algorithms_for_Image_Segmentation.pdf
+        git add Quantum_algorithms_for_supervised_and_unsupervised_machine_learning.pdf
+        git add Quantum_Modeled_Clustering_Algorithms_for_Image_Segmentation.pdf
+        
+        git add Quantum_support_vector_machine_for_big_data_classification.pdf
+        git add Prediction_of_Solar_Irradiation_Using_Quantum_Support_Vector_Machine_Learning_Algorithm.pdf
+        git status 
+        git commit -m "Add some import pdf documents"
+        ls
+        git push origin master
