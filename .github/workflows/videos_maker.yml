@@ -24,6 +24,11 @@ jobs:
         export PATH="$PATH:/home/runner/.local/bin:/home/runner/you_get"
         you-get -o ./you_get/ --debug 'https://video.fosdem.org/2020/UA2.118/getting_started_with_quantum_software_development.mp4'
         you-get -o ./you_get/ --debug 'http://mirroronet.pl/pub/mirrors/video.fosdem.org/2020/UA2.118/kotlin_automate_your_workflows.mp4'
+        you-get -o ./you_get/ --debug 'http://mirroronet.pl/pub/mirrors/video.fosdem.org/2020/UA2.118/kotlin_communication_break_down_coroutines.mp4'
+        you-get -o ./you_get/ --debug 'http://mirroronet.pl/pub/mirrors/video.fosdem.org/2020/UA2.118/kotlin_confessions_of_a_multiplatformer.mp4'
+        you-get -o ./you_get/ --debug 'http://mirroronet.pl/pub/mirrors/video.fosdem.org/2020/UA2.118/kotlin_designing_a_dsl.mp4'
+        
+        
         cd you_get/
         ls
         pwd
