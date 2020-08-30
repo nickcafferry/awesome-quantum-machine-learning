@@ -1,4 +1,4 @@
-name: videos maker
+name: videos uploader
 
 on:
   push:
