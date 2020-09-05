@@ -240,9 +240,9 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 - [RECENT QUANTUM UPDATES FORUM ,PAGES AND NEWSLETTER](#quantumforumsnewsletter)
                                                                    
 
-<!-- /MarkdownTOC -->
-
 ---
+
+<!-- /MarkdownTOC -->
 
 <a name="introduction"></a>
 ## INTRODUCTION
@@ -279,8 +279,6 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [IBM Quantum Supremacy](https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy/) - IBM Talk on Quantum Supremacy as a Primer
 * [VICE on the fight](https://www.vice.com/en_in/article/vb5jxd/why-ibm-thinks-google-hasnt-achieved-quantum-supremacy) - IBM Message on Google Quantum Supremacy
 * [IBM Zurich Quantum Safe Cryptography](https://www.zurich.ibm.com/securityprivacy/quantumsafecryptography.html) - An interesting startup to replace all our Certificate Authority Via Cloud and IBM Q
-
----
 
 <a name="basics"></a>
 ## BASICS
