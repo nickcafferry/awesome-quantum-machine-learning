@@ -8,6 +8,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 [![In Depth Physics Comparison](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/CompareDifferentConcepts.jpg)](https://patents.google.com/patent/US20060091375)
 
+---
 
 ## Table of Contents
 
@@ -243,6 +244,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 <!-- /MarkdownTOC -->
 
+---
+
 <a name="introduction"></a>
 ## INTRODUCTION
 
@@ -278,6 +281,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [IBM Quantum Supremacy](https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy/) - IBM Talk on Quantum Supremacy as a Primer
 * [VICE on the fight](https://www.vice.com/en_in/article/vb5jxd/why-ibm-thinks-google-hasnt-achieved-quantum-supremacy) - IBM Message on Google Quantum Supremacy
 * [IBM Zurich Quantum Safe Cryptography](https://www.zurich.ibm.com/securityprivacy/quantumsafecryptography.html) - An interesting startup to replace all our Certificate Authority Via Cloud and IBM Q
+
+---
 
 <a name="basics"></a>
 ## BASICS
