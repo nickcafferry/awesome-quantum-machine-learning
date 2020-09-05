@@ -8,8 +8,6 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 [![In Depth Physics Comparison](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/CompareDifferentConcepts.jpg)](https://patents.google.com/patent/US20060091375)
 
----
-
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
@@ -983,6 +981,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * Published Basic Presentation of the series Quantum Machine Learning
 [![PPT Basics](https://image.slidesharecdn.com/quantummachinelearningbasics-170716201841/95/quantum-machine-learning-basics-1-638.jpg?cb=1500236565)](https://docs.google.com/presentation/d/1sqQu3LhX97OIwIEEvDMpzQRh6x52C9XDs1RkbPBM9uM/present)
 [![PPT Basics2](https://image.slidesharecdn.com/quantummachinelearningbasics2fromscratch-171107121417/95/quantum-machine-learningbasics2fromscratch-1-638.jpg?cb=1510057257)](https://docs.google.com/presentation/d/1TBmkOkfeIifT73p2ENtnU75JgzMXqj9sOPws378-DPc/present)
+
+---
 
 ### Contribution
 
