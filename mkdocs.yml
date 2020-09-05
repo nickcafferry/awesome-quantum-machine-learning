@@ -1,0 +1,27 @@
+  
+site_name: Awesome Quantum Machine Learning
+site_url: https://awesome-quantum-machine-learning.com
+site_description: A curated list of awesome quantum-machine-learning frameworks, libraries and software
+site_author: Wei MEI
+repo_name: nickcafferry/awesome-quantum-machine-learning
+repo_url: https://github.com/nickcafferry/awesome-quantum-machine-learning
+theme:
+  name: material
+  palette:
+    primary: red
+    accent: pink
+extra:
+  social:
+    - type: github
+      link: https://github.com/nickcafferry
+    - type: twitter
+      link: https://github.com/nickcafferry
+    - type: linkedin
+      link: https://github.com/nickcafferry
+google_analytics:
+  - UA-510626-7
+  - auto
+extra_css:
+    - css/extra.css
+nav:
+  - "Quantum Mechanics is hard, you need machine learning.": "index.md"
